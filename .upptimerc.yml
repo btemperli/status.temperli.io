@@ -8,7 +8,7 @@ sites:
   - name: Präsentationen
     url: https://present.temperli.io
   - name: WebTigerJython
-    url: https://wtj.temperli.io  
+    url: https://wtj.temperli.io
   - name: Dreisatz-Tool
     url: http://dreisatz.temper.li
   - name: "Temperli: LED"
@@ -29,6 +29,18 @@ sites:
     url: https://cevi-waedi.ch
   - name: "Stalder"
     url: https://stalder-ag.ch
+
+assignees:
+  - btemperli
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
