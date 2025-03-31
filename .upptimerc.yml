@@ -31,7 +31,7 @@ status-website:
   introMessage: ""
   navbar:
     - title: Status
-      href: /
+      href: https://$OWNER.github.io/$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Issues
