@@ -1,6 +1,5 @@
-# Change these first
-owner: btemperli # Your GitHub organization or username, where this repository lives
-repo: status.temperli.io # The name of this repository
+owner: btemperli
+repo: status.temperli.io
 
 sites:
   - name: Temperli
@@ -61,6 +60,4 @@ status-website:
     - title: Issues
       href: https://github.com/$OWNER/$REPO/issues
 
-
-# Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
