@@ -7,12 +7,20 @@ sites:
     url: https://temperli.io/web
   - name: Präsentationen
     url: https://present.temperli.io
+  - name: Dreisatz-Tool
+    url: http://dreisatz.temper.li
+  - name: "Temperli: LED"
+    url: https://temperli.io/web/led
   - name: chottenserver
     url: $CHOTTEN_SERVER_SITE
   - name: chottenserver info
     url: $CHOTTEN_SERVER_SITE/info.php
   - name: chottenserver fotos
     url: $CHOTTEN_SERVER_SITE:2855
+  - name: "Kanti: Informatik-Seite"
+    url: https://kanti-informatik.ch
+  - name: "Kanti: Robotik-Scouting"
+    url: https://6417.kanti-informatik.ch/scouting
   - name: "Cevi: Logo Generator"
     url: https://logo.cevi.ch
   - name: "Cevi: Abteilung Wädi"
