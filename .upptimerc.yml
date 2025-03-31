@@ -47,7 +47,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status.temperli.io
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://temperli.io/web/assets/images/status_icon-512.png
   name: status.temperli.io
   introTitle: "**status.temperli.io**"
   introMessage: ""
@@ -58,7 +58,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Issues
       href: https://github.com/$OWNER/$REPO/issues
-  logoUrl: https://temperli.io/web/assets/images/status_icon-512.png
 
 
 # Upptime also supports notifications, assigning issues, and more
