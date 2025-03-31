@@ -12,9 +12,10 @@ sites:
   - name: chottenserver info
     url: $CHOTTEN_SERVER_SITE/info.php
   - name: chottenserver fotos
-    url: $CHOTTEN_SERVER_SITE
     check: "tcp-ping"
+    url: $CHOTTEN_SERVER_SITE
     port: 2855
+    ipv6: true
   - name: "Cevi: Logo Generator"
     url: https://logo.cevi.ch
   - name: "Cevi: Abteilung Wädi"
