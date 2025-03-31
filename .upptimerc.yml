@@ -52,7 +52,7 @@ status-website:
   name: status.temperli.io
   introTitle: "**status.temperli.io**"
   introMessage: ""
-  themeUrl: https://raw.githubusercontent.com/btemperli/status.temperli.io/refs/heads/master/assets/custom.css
+  themeUrl: /status.temperli.io/custom.css
   navbar:
     - title: Status
       href: https://$OWNER.github.io/$REPO
