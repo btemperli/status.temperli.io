@@ -58,6 +58,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Issues
       href: https://github.com/$OWNER/$REPO/issues
+  logoUrl: https://temperli.io/web/assets/images/status_icon-512.png
 
 
 # Upptime also supports notifications, assigning issues, and more
