@@ -48,6 +48,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status.temperli.io
   logoUrl: https://temperli.io/web/assets/images/status_icon-512.png
+  favicon: https://temperli.io/web/assets/images/status_icon-192.png
   name: status.temperli.io
   introTitle: "**status.temperli.io**"
   introMessage: ""
