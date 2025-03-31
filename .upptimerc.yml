@@ -7,6 +7,8 @@ sites:
     url: https://temperli.io/web
   - name: Präsentationen
     url: https://present.temperli.io
+  - name: WebTigerJython
+    url: https://wtj.temperli.io  
   - name: Dreisatz-Tool
     url: http://dreisatz.temper.li
   - name: "Temperli: LED"
