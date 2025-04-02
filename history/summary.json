@@ -94,19 +94,19 @@
     "url": "$CHOTTEN_SERVER_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
-    "status": "up",
-    "uptime": "95.21%",
-    "uptimeDay": "88.74%",
-    "uptimeWeek": "95.21%",
-    "uptimeMonth": "95.21%",
-    "uptimeYear": "95.21%",
+    "status": "down",
+    "uptime": "95.58%",
+    "uptimeDay": "89.61%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "95.58%",
+    "uptimeYear": "95.58%",
     "time": 1485,
     "timeDay": 1812,
     "timeWeek": 1485,
     "timeMonth": 1485,
     "timeYear": 1485,
     "dailyMinutesDown": {
-      "2025-04-02": 162
+      "2025-04-02": 149
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "$CHOTTEN_SERVER_SITE/info.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-info",
-    "status": "up",
-    "uptime": "95.20%",
-    "uptimeDay": "88.73%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "95.20%",
-    "uptimeYear": "95.20%",
+    "status": "down",
+    "uptime": "95.58%",
+    "uptimeDay": "89.61%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "95.58%",
+    "uptimeYear": "95.58%",
     "time": 387,
     "timeDay": 360,
     "timeWeek": 387,
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-04-02": 162
+      "2025-04-02": 149
     }
   },
   {
