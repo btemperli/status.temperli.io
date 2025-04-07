@@ -32,6 +32,8 @@ sites:
 assignees:
   - btemperli
 
+skipDeleteIssues: true
+
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
