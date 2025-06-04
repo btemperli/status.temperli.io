@@ -22,6 +22,10 @@ sites:
     url: https://kanti-informatik.ch
   - name: "Kanti: Robotik-Scouting"
     url: https://6417.kanti-informatik.ch/scouting
+  - name: "Kanti: Secure Forms (admin-login)"
+    url: $KANTI_SECURE_FORMS_SITE
+  - name: "Kanti: Secure"
+    url: $KANTI_SECURE_SITE
   - name: "Cevi: Logo Generator"
     url: https://logo.cevi.ch
   - name: "Cevi: Abteilung Wädi"
