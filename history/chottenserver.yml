@@ -1,7 +1,7 @@
 url: $CHOTTEN_SERVER_SITE
-status: up
-code: 200
-responseTime: 517
-lastUpdated: 2025-07-14T23:20:47.972Z
+status: down
+code: 404
+responseTime: 562
+lastUpdated: 2025-07-15T11:40:33.138Z
 startTime: 2025-03-31T08:43:20.707Z
 generator: Upptime <https://github.com/upptime/upptime>
