@@ -1,7 +1,7 @@
 url: http://dreisatz.temper.li
-status: up
-code: 200
-responseTime: 578
-lastUpdated: 2025-07-25T01:35:33.181Z
+status: down
+code: 415
+responseTime: 4464
+lastUpdated: 2025-07-25T07:25:46.969Z
 startTime: 2025-03-31T09:21:23.676Z
 generator: Upptime <https://github.com/upptime/upptime>
