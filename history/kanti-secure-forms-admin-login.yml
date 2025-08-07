@@ -1,7 +1,7 @@
 url: $KANTI_SECURE_FORMS_SITE
-status: down
-code: 415
-responseTime: 577
-lastUpdated: 2025-08-07T19:45:48.779Z
+status: up
+code: 200
+responseTime: 645
+lastUpdated: 2025-08-07T19:50:56.728Z
 startTime: 2025-06-04T14:15:56.818Z
 generator: Upptime <https://github.com/upptime/upptime>
