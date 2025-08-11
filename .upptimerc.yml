@@ -36,7 +36,7 @@ sites:
 assignees:
   - btemperli
 
-skipDeleteIssues: true
+# skipDeleteIssues: true
 
 workflowSchedule:
   graphs: "0 0 * * *"
