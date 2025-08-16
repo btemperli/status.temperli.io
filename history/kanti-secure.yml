@@ -1,7 +1,7 @@
 url: $KANTI_SECURE_SITE
-status: up
-code: 200
-responseTime: 828
-lastUpdated: 2025-08-15T23:20:22.904Z
+status: down
+code: 415
+responseTime: 928
+lastUpdated: 2025-08-16T22:15:44.503Z
 startTime: 2025-06-04T14:15:57.632Z
 generator: Upptime <https://github.com/upptime/upptime>
