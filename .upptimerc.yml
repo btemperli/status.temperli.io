@@ -27,7 +27,7 @@ sites:
   - name: "Kanti: Secure"
     url: $KANTI_SECURE_SITE
   - name: "Cevi: Logo Generator"
-    url: https://logo.cevi.ch
+    url: https://logo.cevi.ch/admin/login.php
   - name: "Cevi: Abteilung Wädi"
     url: https://cevi-waedi.ch
   - name: "Stalder"
