@@ -476,19 +476,19 @@
     "url": "https://logo.cevi.ch/admin/login.php",
     "icon": "https://icons.duckduckgo.com/ip3/logo.cevi.ch.ico",
     "slug": "cevi-logo-generator-admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 153,
-    "timeDay": 141,
-    "timeWeek": 148,
+    "timeDay": 144,
+    "timeWeek": 147,
     "timeMonth": 153,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-08-29": 0
+      "2025-08-29": 4
     }
   },
   {
