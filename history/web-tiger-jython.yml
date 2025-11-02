@@ -1,7 +1,7 @@
 url: https://wtj.temperli.io
-status: up
-code: 200
-responseTime: 856
-lastUpdated: 2025-11-02T16:30:36.547Z
+status: down
+code: 415
+responseTime: 4822
+lastUpdated: 2025-11-02T16:50:32.721Z
 startTime: 2025-03-31T09:34:30.059Z
 generator: Upptime <https://github.com/upptime/upptime>
