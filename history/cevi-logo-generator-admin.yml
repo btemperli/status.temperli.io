@@ -1,7 +1,7 @@
 url: https://logo.cevi.ch/admin/login.php
-status: down
-code: 415
+status: up
+code: 200
 responseTime: 161
-lastUpdated: 2025-11-09T23:55:52.773Z
+lastUpdated: 2025-11-10T00:01:16.195Z
 startTime: 2025-08-21T15:50:38.134Z
 generator: Upptime <https://github.com/upptime/upptime>
