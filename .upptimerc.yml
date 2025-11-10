@@ -49,6 +49,9 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "2 2 * * *"
 
+i18n:
+  locale: de-CH
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
