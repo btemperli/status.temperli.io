@@ -1,7 +1,7 @@
 url: https://cevi-waedi.ch
-status: up
-code: 200
-responseTime: 1299
-lastUpdated: 2025-11-15T00:21:03.343Z
+status: down
+code: 415
+responseTime: 570
+lastUpdated: 2025-11-15T01:41:02.108Z
 startTime: 2025-03-31T08:43:24.640Z
 generator: Upptime <https://github.com/upptime/upptime>
