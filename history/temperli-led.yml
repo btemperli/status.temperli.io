@@ -1,7 +1,7 @@
 url: https://temperli.io/web/led
-status: down
-code: 415
-responseTime: 323
-lastUpdated: 2025-11-26T20:50:42.312Z
+status: up
+code: 200
+responseTime: 228
+lastUpdated: 2025-11-26T20:55:40.345Z
 startTime: 2025-03-31T09:21:24.386Z
 generator: Upptime <https://github.com/upptime/upptime>
