@@ -4,14 +4,29 @@ repo: status.temperli.io
 sites:
   - name: Temperli
     url: https://temperli.io/web
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: Präsentationen
     url: https://present.temperli.io
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: WebTigerJython
     url: https://wtj.temperli.io
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: Dreisatz-Tool
     url: http://dreisatz.temper.li
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: "Temperli: LED"
     url: https://temperli.io/web/led
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: chottenserver
     url: $CHOTTEN_SERVER_SITE
   - name: chottenserver info
@@ -24,14 +39,29 @@ sites:
     url: https://6417.kanti-informatik.ch/scouting
   - name: "Kanti: Secure Forms (admin-login)"
     url: $KANTI_SECURE_FORMS_SITE
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: "Kanti: Secure"
     url: $KANTI_SECURE_SITE
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: "Cevi: Logo Generator"
     url: https://logo.cevi.ch/?notracking
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: "Cevi: Logo Generator Admin"
     url: https://logo.cevi.ch/admin/login.php
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: "Cevi: Abteilung Wädi"
     url: https://cevi-waedi.ch
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: "Stalder"
     url: https://stalder-ag.ch
 
