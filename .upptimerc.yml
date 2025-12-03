@@ -64,6 +64,8 @@ sites:
       - 415
   - name: "Stalder"
     url: https://stalder-ag.ch
+  - name: "Orsopal"
+    url: https://orsopal.ch
 
 assignees:
   - btemperli
