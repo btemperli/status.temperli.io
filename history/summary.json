@@ -606,19 +606,19 @@
     "url": "https://orsopal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/orsopal.ch.ico",
     "slug": "orsopal",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
-    "time": 1020,
-    "timeDay": 1020,
-    "timeWeek": 1020,
-    "timeMonth": 1020,
-    "timeYear": 1020,
+    "status": "up",
+    "uptime": "94.08%",
+    "uptimeDay": "94.08%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "94.08%",
+    "uptimeYear": "94.08%",
+    "time": 1251,
+    "timeDay": 1251,
+    "timeWeek": 1251,
+    "timeMonth": 1251,
+    "timeYear": 1251,
     "dailyMinutesDown": {
-      "2025-12-04": 1
+      "2025-12-04": 10
     }
   }
 ]
