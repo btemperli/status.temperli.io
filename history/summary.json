@@ -607,18 +607,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/orsopal.ch.ico",
     "slug": "orsopal",
     "status": "up",
-    "uptime": "94.08%",
-    "uptimeDay": "94.08%",
-    "uptimeWeek": "94.08%",
-    "uptimeMonth": "94.08%",
-    "uptimeYear": "94.08%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1251,
     "timeDay": 1251,
     "timeWeek": 1251,
     "timeMonth": 1251,
     "timeYear": 1251,
-    "dailyMinutesDown": {
-      "2025-12-04": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
