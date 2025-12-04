@@ -66,6 +66,9 @@ sites:
     url: https://stalder-ag.ch
   - name: "Orsopal"
     url: https://orsopal.ch
+    expectedStatusCodes:
+      - 200
+      - 415
 
 assignees:
   - btemperli
