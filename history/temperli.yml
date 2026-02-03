@@ -1,7 +1,7 @@
 url: https://temperli.io/web
-status: up
-code: 200
-responseTime: 842
-lastUpdated: 2026-02-02T23:30:59.433Z
+status: down
+code: 500
+responseTime: 743
+lastUpdated: 2026-02-03T16:15:21.569Z
 startTime: 2025-03-31T08:43:18.382Z
 generator: Upptime <https://github.com/upptime/upptime>
