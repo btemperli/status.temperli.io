@@ -33,6 +33,8 @@ sites:
     url: $CHOTTEN_SERVER_SITE/info.php
   - name: chottenserver fotos
     url: $CHOTTEN_SERVER_SITE:2855
+  - name: "chottenserver IP-Adresse"
+    url: $CHOTTEN_SERVER_SITE/checkip.php
   - name: "Kanti: Informatik-Seite"
     url: https://kanti-informatik.ch
   - name: "Kanti: Robotik-Scouting"
