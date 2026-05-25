@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "97.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "37.34%",
-    "uptimeMonth": "72.49%",
+    "uptimeWeek": "37.29%",
+    "uptimeMonth": "72.48%",
     "uptimeYear": "96.85%",
     "time": 1578,
     "timeDay": 1447,
@@ -63,7 +63,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1260,
       "2026-05-23": 956,
-      "2026-05-25": 176,
+      "2026-05-25": 181,
       "2026-05-24": 1440
     }
   },
@@ -75,8 +75,8 @@
     "status": "up",
     "uptime": "97.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "37.48%",
-    "uptimeMonth": "70.83%",
+    "uptimeWeek": "37.43%",
+    "uptimeMonth": "70.82%",
     "uptimeYear": "96.72%",
     "time": 1182,
     "timeDay": 611,
@@ -128,7 +128,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1255,
       "2026-05-23": 946,
-      "2026-05-25": 176,
+      "2026-05-25": 181,
       "2026-05-24": 1440
     }
   },
@@ -140,8 +140,8 @@
     "status": "up",
     "uptime": "97.15%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "37.63%",
-    "uptimeMonth": "71.00%",
+    "uptimeWeek": "37.57%",
+    "uptimeMonth": "70.99%",
     "uptimeYear": "96.73%",
     "time": 1234,
     "timeDay": 817,
@@ -193,7 +193,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1250,
       "2026-05-23": 936,
-      "2026-05-25": 176,
+      "2026-05-25": 181,
       "2026-05-24": 1440
     }
   },
@@ -205,8 +205,8 @@
     "status": "up",
     "uptime": "97.17%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "37.77%",
-    "uptimeMonth": "71.19%",
+    "uptimeWeek": "37.72%",
+    "uptimeMonth": "71.18%",
     "uptimeYear": "96.75%",
     "time": 926,
     "timeDay": 495,
@@ -257,7 +257,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1245,
       "2026-05-23": 926,
-      "2026-05-25": 176,
+      "2026-05-25": 181,
       "2026-05-24": 1440
     }
   },
@@ -269,8 +269,8 @@
     "status": "up",
     "uptime": "97.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.03%",
-    "uptimeMonth": "71.39%",
+    "uptimeWeek": "37.97%",
+    "uptimeMonth": "71.38%",
     "uptimeYear": "96.77%",
     "time": 245,
     "timeDay": 507,
@@ -317,7 +317,7 @@
       "2026-05-22": 1046,
       "2026-05-21": 1440,
       "2026-05-20": 1240,
-      "2026-05-25": 176,
+      "2026-05-25": 182,
       "2026-05-24": 1440,
       "2026-05-23": 905
     }
@@ -478,17 +478,17 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "down",
+    "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "88.68%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "88.63%",
     "uptimeMonth": "91.82%",
     "uptimeYear": "98.81%",
     "time": 671,
-    "timeDay": 478,
-    "timeWeek": 598,
-    "timeMonth": 600,
-    "timeYear": 684,
+    "timeDay": 485,
+    "timeWeek": 593,
+    "timeMonth": 599,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2025-05-31": 5,
       "2025-06-01": 4,
@@ -516,7 +516,7 @@
       "2026-05-11": 1319,
       "2026-05-19": 85,
       "2026-05-23": 1050,
-      "2026-05-25": 6
+      "2026-05-25": 10
     }
   },
   {
@@ -524,17 +524,17 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "down",
+    "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "88.82%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "88.78%",
     "uptimeMonth": "91.87%",
     "uptimeYear": "98.82%",
-    "time": 923,
-    "timeDay": 601,
-    "timeWeek": 734,
-    "timeMonth": 1754,
-    "timeYear": 949,
+    "time": 922,
+    "timeDay": 619,
+    "timeWeek": 730,
+    "timeMonth": 1742,
+    "timeYear": 948,
     "dailyMinutesDown": {
       "2025-05-31": 5,
       "2025-06-01": 4,
@@ -561,7 +561,7 @@
       "2026-05-11": 1314,
       "2026-05-19": 80,
       "2026-05-23": 1045,
-      "2026-05-25": 1
+      "2026-05-25": 6
     }
   },
   {
@@ -572,8 +572,8 @@
     "status": "up",
     "uptime": "96.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.12%",
-    "uptimeMonth": "72.75%",
+    "uptimeWeek": "38.07%",
+    "uptimeMonth": "72.74%",
     "uptimeYear": "96.44%",
     "time": 994,
     "timeDay": 831,
@@ -621,7 +621,7 @@
       "2026-05-22": 1046,
       "2026-05-21": 1440,
       "2026-05-20": 1235,
-      "2026-05-25": 176,
+      "2026-05-25": 182,
       "2026-05-24": 1440,
       "2026-05-23": 900
     }
@@ -634,8 +634,8 @@
     "status": "up",
     "uptime": "96.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.22%",
-    "uptimeMonth": "71.72%",
+    "uptimeWeek": "38.16%",
+    "uptimeMonth": "71.71%",
     "uptimeYear": "96.36%",
     "time": 733,
     "timeDay": 474,
@@ -683,7 +683,7 @@
       "2026-05-22": 1046,
       "2026-05-21": 1440,
       "2026-05-20": 1230,
-      "2026-05-25": 177,
+      "2026-05-25": 182,
       "2026-05-24": 1440,
       "2026-05-23": 895
     }
@@ -790,8 +790,8 @@
     "status": "up",
     "uptime": "97.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.04%",
-    "uptimeMonth": "80.98%",
+    "uptimeWeek": "37.99%",
+    "uptimeMonth": "80.96%",
     "uptimeYear": "97.46%",
     "time": 1814,
     "timeDay": 1522,
@@ -839,7 +839,7 @@
       "2026-05-22": 1046,
       "2026-05-21": 1440,
       "2026-05-20": 1216,
-      "2026-05-25": 177,
+      "2026-05-25": 182,
       "2026-05-24": 1440,
       "2026-05-23": 880
     }
@@ -895,8 +895,8 @@
     "status": "up",
     "uptime": "93.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.60%",
-    "uptimeMonth": "72.44%",
+    "uptimeWeek": "38.55%",
+    "uptimeMonth": "72.42%",
     "uptimeYear": "93.63%",
     "time": 1523,
     "timeDay": 1601,
@@ -923,7 +923,7 @@
       "2026-05-22": 1046,
       "2026-05-21": 1440,
       "2026-05-20": 1211,
-      "2026-05-25": 177,
+      "2026-05-25": 182,
       "2026-05-24": 1440,
       "2026-05-23": 875
     }
