@@ -712,17 +712,17 @@
     "url": "https://logo.cevi.ch/?notracking",
     "icon": "https://icons.duckduckgo.com/ip3/logo.cevi.ch.ico",
     "slug": "cevi-logo-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "97.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "76.25%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "76.24%",
     "uptimeYear": "97.14%",
     "time": 770,
-    "timeDay": 577,
-    "timeWeek": 661,
-    "timeMonth": 675,
-    "timeYear": 759,
+    "timeDay": 542,
+    "timeWeek": 650,
+    "timeMonth": 672,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2025-06-26": 5,
       "2025-06-29": 9,
@@ -760,7 +760,8 @@
       "2026-05-27": 16,
       "2026-05-28": 33,
       "2026-05-29": 16,
-      "2026-05-30": 182
+      "2026-05-30": 182,
+      "2026-06-02": 1
     }
   },
   {
@@ -768,16 +769,16 @@
     "url": "https://logo.cevi.ch/admin/login.php",
     "icon": "https://icons.duckduckgo.com/ip3/logo.cevi.ch.ico",
     "slug": "cevi-logo-generator-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "96.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.25%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "76.86%",
     "uptimeYear": "96.41%",
     "time": 170,
-    "timeDay": 489,
-    "timeWeek": 537,
-    "timeMonth": 519,
+    "timeDay": 467,
+    "timeWeek": 530,
+    "timeMonth": 518,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -803,7 +804,8 @@
       "2026-05-21": 1440,
       "2026-05-20": 1221,
       "2026-05-23": 884,
-      "2026-05-30": 177
+      "2026-05-30": 177,
+      "2026-06-02": 1
     }
   },
   {
@@ -813,9 +815,9 @@
     "slug": "cevi-abteilung-waedi",
     "status": "down",
     "uptime": "97.67%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "78.75%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "78.74%",
     "uptimeYear": "97.27%",
     "time": 1816,
     "timeDay": 470,
@@ -867,7 +869,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 880,
       "2026-05-30": 172,
-      "2026-06-02": 1
+      "2026-06-02": 6
     }
   },
   {
@@ -921,7 +923,7 @@
     "status": "up",
     "uptime": "92.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.60%",
+    "uptimeWeek": "86.65%",
     "uptimeMonth": "65.02%",
     "uptimeYear": "92.48%",
     "time": 1508,
