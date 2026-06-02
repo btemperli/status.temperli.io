@@ -876,9 +876,9 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "96.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.59%",
     "uptimeYear": "97.42%",
     "time": 1576,
     "timeDay": 875,
@@ -909,8 +909,7 @@
       "2026-03-31": 1440,
       "2026-03-30": 1209,
       "2026-05-09": 116,
-      "2026-05-08": 1380,
-      "2026-06-02": 5
+      "2026-05-08": 1380
     }
   },
   {
@@ -921,7 +920,7 @@
     "status": "up",
     "uptime": "92.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.07%",
+    "uptimeWeek": "77.19%",
     "uptimeMonth": "65.02%",
     "uptimeYear": "92.45%",
     "time": 1508,
