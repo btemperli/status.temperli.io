@@ -6,9 +6,9 @@
     "slug": "temperli",
     "status": "up",
     "uptime": "97.20%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "95.77%",
-    "uptimeMonth": "72.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "72.17%",
     "uptimeYear": "96.72%",
     "time": 1580,
     "timeDay": 552,
@@ -68,8 +68,7 @@
       "2026-05-27": 50,
       "2026-05-28": 101,
       "2026-05-29": 70,
-      "2026-05-30": 196,
-      "2026-06-02": 10
+      "2026-05-30": 196
     }
   },
   {
@@ -78,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/present.temperli.io.ico",
     "slug": "praesentationen",
     "status": "up",
-    "uptime": "97.09%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "96.02%",
-    "uptimeMonth": "70.54%",
-    "uptimeYear": "96.59%",
+    "uptime": "97.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "70.56%",
+    "uptimeYear": "96.60%",
     "time": 1181,
     "timeDay": 467,
     "timeWeek": 1161,
@@ -138,8 +137,7 @@
       "2026-05-27": 45,
       "2026-05-28": 91,
       "2026-05-29": 60,
-      "2026-05-30": 196,
-      "2026-06-02": 9
+      "2026-05-30": 196
     }
   },
   {
@@ -149,9 +147,9 @@
     "slug": "web-tiger-jython",
     "status": "up",
     "uptime": "97.11%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "96.26%",
-    "uptimeMonth": "69.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "69.56%",
     "uptimeYear": "96.61%",
     "time": 1233,
     "timeDay": 542,
@@ -208,8 +206,7 @@
       "2026-05-27": 40,
       "2026-05-28": 81,
       "2026-05-29": 50,
-      "2026-05-30": 196,
-      "2026-06-02": 9
+      "2026-05-30": 196
     }
   },
   {
@@ -287,9 +284,9 @@
     "slug": "temperli-led",
     "status": "up",
     "uptime": "97.15%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "71.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "71.29%",
     "uptimeYear": "96.66%",
     "time": 255,
     "timeDay": 525,
@@ -342,8 +339,7 @@
       "2026-05-27": 31,
       "2026-05-28": 62,
       "2026-05-29": 31,
-      "2026-05-30": 196,
-      "2026-06-02": 9
+      "2026-05-30": 196
     }
   },
   {
@@ -501,11 +497,11 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.66%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "98.81%",
     "time": 675,
     "timeDay": 661,
@@ -535,7 +531,8 @@
       "2026-05-12": 321,
       "2026-05-11": 1319,
       "2026-05-19": 85,
-      "2026-05-23": 1050
+      "2026-05-23": 1050,
+      "2026-06-02": 6
     }
   },
   {
@@ -543,10 +540,10 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "93.71%",
     "uptimeYear": "98.82%",
     "time": 915,
@@ -576,7 +573,8 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045
+      "2026-05-23": 1045,
+      "2026-06-02": 1
     }
   },
   {
@@ -586,9 +584,9 @@
     "slug": "kanti-secure-forms-admin-login",
     "status": "up",
     "uptime": "96.42%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "71.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "71.51%",
     "uptimeYear": "96.42%",
     "time": 989,
     "timeDay": 468,
@@ -642,8 +640,7 @@
       "2026-05-27": 26,
       "2026-05-28": 52,
       "2026-05-29": 26,
-      "2026-05-30": 191,
-      "2026-06-02": 9
+      "2026-05-30": 191
     }
   },
   {
@@ -925,7 +922,7 @@
     "status": "up",
     "uptime": "92.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.24%",
+    "uptimeWeek": "87.73%",
     "uptimeMonth": "65.02%",
     "uptimeYear": "92.48%",
     "time": 1505,
