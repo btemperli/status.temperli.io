@@ -8,13 +8,13 @@
     "uptime": "97.19%",
     "uptimeDay": "92.97%",
     "uptimeWeek": "95.86%",
-    "uptimeMonth": "71.82%",
+    "uptimeMonth": "72.28%",
     "uptimeYear": "96.69%",
     "time": 1578,
     "timeDay": 1315,
     "timeWeek": 1580,
-    "timeMonth": 2151,
-    "timeYear": 1604,
+    "timeMonth": 2196,
+    "timeYear": 1605,
     "dailyMinutesDown": {
       "2025-06-06": 5,
       "2025-06-16": 10,
@@ -87,8 +87,8 @@
     "time": 1178,
     "timeDay": 625,
     "timeWeek": 636,
-    "timeMonth": 909,
-    "timeYear": 1210,
+    "timeMonth": 923,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2025-06-06": 5,
       "2025-06-19": 5,
@@ -153,12 +153,12 @@
     "uptime": "97.10%",
     "uptimeDay": "94.31%",
     "uptimeWeek": "96.33%",
-    "uptimeMonth": "69.28%",
+    "uptimeMonth": "69.73%",
     "uptimeYear": "96.59%",
     "time": 1231,
     "timeDay": 750,
     "timeWeek": 826,
-    "timeMonth": 1264,
+    "timeMonth": 1216,
     "timeYear": 1256,
     "dailyMinutesDown": {
       "2025-06-06": 5,
@@ -229,7 +229,7 @@
     "time": 919,
     "timeDay": 578,
     "timeWeek": 580,
-    "timeMonth": 795,
+    "timeMonth": 806,
     "timeYear": 951,
     "dailyMinutesDown": {
       "2025-06-06": 5,
@@ -299,7 +299,7 @@
     "time": 257,
     "timeDay": 558,
     "timeWeek": 843,
-    "timeMonth": 801,
+    "timeMonth": 821,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2025-06-06": 5,
@@ -358,7 +358,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
     "status": "up",
-    "uptime": "95.39%",
+    "uptime": "95.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
@@ -367,7 +367,7 @@
     "timeDay": 910,
     "timeWeek": 783,
     "timeMonth": 940,
-    "timeYear": 1110,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2025-07-15": 575,
       "2025-07-27": 30,
@@ -416,7 +416,7 @@
     "timeDay": 829,
     "timeWeek": 693,
     "timeMonth": 781,
-    "timeYear": 675,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2025-07-15": 575,
       "2025-07-27": 29,
@@ -461,7 +461,7 @@
     "timeDay": 519,
     "timeWeek": 495,
     "timeMonth": 606,
-    "timeYear": 870,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2025-06-23": 5,
       "2025-07-15": 935,
@@ -517,7 +517,7 @@
     "timeDay": 773,
     "timeWeek": 661,
     "timeMonth": 648,
-    "timeYear": 689,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2025-06-05": 428,
       "2025-06-07": 5,
@@ -599,8 +599,8 @@
     "time": 988,
     "timeDay": 696,
     "timeWeek": 755,
-    "timeMonth": 1049,
-    "timeYear": 988,
+    "timeMonth": 1062,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2025-06-06": 851,
       "2025-06-05": 949,
@@ -667,7 +667,7 @@
     "time": 731,
     "timeDay": 711,
     "timeWeek": 610,
-    "timeMonth": 669,
+    "timeMonth": 675,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2025-06-06": 851,
@@ -735,7 +735,7 @@
     "time": 769,
     "timeDay": 583,
     "timeWeek": 665,
-    "timeMonth": 668,
+    "timeMonth": 669,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2025-06-26": 5,
@@ -786,14 +786,14 @@
     "slug": "cevi-logo-generator-admin",
     "status": "up",
     "uptime": "96.43%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "76.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "76.86%",
     "uptimeYear": "96.43%",
     "time": 174,
     "timeDay": 562,
     "timeWeek": 561,
-    "timeMonth": 544,
+    "timeMonth": 558,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -819,8 +819,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1221,
       "2026-05-23": 884,
-      "2026-05-30": 177,
-      "2026-06-04": 12
+      "2026-05-30": 177
     }
   },
   {
@@ -830,14 +829,14 @@
     "slug": "cevi-abteilung-waedi",
     "status": "up",
     "uptime": "97.68%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "78.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "78.76%",
     "uptimeYear": "97.27%",
     "time": 1816,
     "timeDay": 1289,
     "timeWeek": 1855,
-    "timeMonth": 4294,
+    "timeMonth": 4328,
     "timeYear": 1841,
     "dailyMinutesDown": {
       "2025-06-06": 5,
@@ -883,8 +882,7 @@
       "2026-05-25": 1021,
       "2026-05-24": 1440,
       "2026-05-23": 880,
-      "2026-05-30": 172,
-      "2026-06-04": 7
+      "2026-05-30": 172
     }
   },
   {
@@ -892,16 +890,16 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "97.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.59%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "96.58%",
     "uptimeYear": "97.42%",
-    "time": 1567,
-    "timeDay": 1174,
-    "timeWeek": 1158,
-    "timeMonth": 1419,
+    "time": 1566,
+    "timeDay": 1186,
+    "timeWeek": 1143,
+    "timeMonth": 1413,
     "timeYear": 1568,
     "dailyMinutesDown": {
       "2025-06-05": 9,
@@ -927,7 +925,8 @@
       "2026-03-31": 1440,
       "2026-03-30": 1209,
       "2026-05-09": 116,
-      "2026-05-08": 1380
+      "2026-05-08": 1380,
+      "2026-06-04": 1
     }
   },
   {
@@ -936,15 +935,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/orsopal.ch.ico",
     "slug": "orsopal",
     "status": "up",
-    "uptime": "92.55%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "65.01%",
-    "uptimeYear": "92.55%",
+    "uptime": "92.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "65.02%",
+    "uptimeYear": "92.56%",
     "time": 1498,
     "timeDay": 1188,
     "timeWeek": 1017,
-    "timeMonth": 1512,
+    "timeMonth": 1517,
     "timeYear": 1498,
     "dailyMinutesDown": {
       "2026-03-02": 466,
@@ -971,8 +970,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 875,
-      "2026-05-30": 167,
-      "2026-06-04": 2
+      "2026-05-30": 167
     }
   }
 ]
