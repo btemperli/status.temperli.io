@@ -509,9 +509,9 @@
     "slug": "kanti-informatik-seite",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "93.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "98.86%",
     "time": 674,
     "timeDay": 459,
@@ -540,8 +540,7 @@
       "2026-05-12": 321,
       "2026-05-11": 1319,
       "2026-05-19": 85,
-      "2026-05-23": 1050,
-      "2026-06-05": 7
+      "2026-05-23": 1050
     }
   },
   {
@@ -551,9 +550,9 @@
     "slug": "kanti-robotik-scouting",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "93.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "98.86%",
     "time": 911,
     "timeDay": 606,
@@ -581,8 +580,7 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045,
-      "2026-06-05": 2
+      "2026-05-23": 1045
     }
   },
   {
@@ -888,16 +886,16 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "down",
+    "status": "up",
     "uptime": "97.80%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "97.42%",
     "time": 1559,
-    "timeDay": 1049,
-    "timeWeek": 1117,
-    "timeMonth": 1367,
+    "timeDay": 1059,
+    "timeWeek": 1120,
+    "timeMonth": 1366,
     "timeYear": 1556,
     "dailyMinutesDown": {
       "2025-06-07": 5,
@@ -923,7 +921,7 @@
       "2026-03-30": 1209,
       "2026-05-09": 116,
       "2026-05-08": 1380,
-      "2026-06-05": 1
+      "2026-06-05": 3
     }
   },
   {
