@@ -150,7 +150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wtj.temperli.io.ico",
     "slug": "web-tiger-jython",
     "status": "up",
-    "uptime": "97.10%",
+    "uptime": "97.11%",
     "uptimeDay": "94.31%",
     "uptimeWeek": "96.33%",
     "uptimeMonth": "70.51%",
@@ -514,7 +514,7 @@
     "uptimeMonth": "93.66%",
     "uptimeYear": "98.81%",
     "time": 674,
-    "timeDay": 676,
+    "timeDay": 625,
     "timeWeek": 649,
     "timeMonth": 643,
     "timeYear": 689,
@@ -886,15 +886,15 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "97.80%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "97.42%",
     "time": 1562,
-    "timeDay": 1100,
-    "timeWeek": 1125,
+    "timeDay": 1119,
+    "timeWeek": 1132,
     "timeMonth": 1388,
     "timeYear": 1563,
     "dailyMinutesDown": {
@@ -921,7 +921,7 @@
       "2026-03-30": 1209,
       "2026-05-09": 116,
       "2026-05-08": 1380,
-      "2026-06-05": 5
+      "2026-06-05": 1
     }
   },
   {
