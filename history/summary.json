@@ -502,15 +502,15 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "down",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
     "uptimeMonth": "93.65%",
     "uptimeYear": "98.89%",
     "time": 673,
-    "timeDay": 533,
-    "timeWeek": 622,
+    "timeDay": 561,
+    "timeWeek": 624,
     "timeMonth": 639,
     "timeYear": 652,
     "dailyMinutesDown": {
@@ -536,7 +536,7 @@
       "2026-05-11": 1319,
       "2026-05-19": 85,
       "2026-05-23": 1050,
-      "2026-06-06": 6
+      "2026-06-06": 7
     }
   },
   {
@@ -544,16 +544,16 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "93.71%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "93.70%",
     "uptimeYear": "98.90%",
     "time": 910,
-    "timeDay": 713,
-    "timeWeek": 707,
-    "timeMonth": 731,
+    "timeDay": 744,
+    "timeWeek": 714,
+    "timeMonth": 732,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2025-06-07": 5,
@@ -577,7 +577,7 @@
       "2026-05-11": 1314,
       "2026-05-19": 80,
       "2026-05-23": 1045,
-      "2026-06-06": 1
+      "2026-06-06": 2
     }
   },
   {
