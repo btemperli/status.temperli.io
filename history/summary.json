@@ -504,9 +504,9 @@
     "slug": "kanti-informatik-seite",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "93.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "98.90%",
     "time": 673,
     "timeDay": 587,
@@ -534,8 +534,7 @@
       "2026-05-12": 321,
       "2026-05-11": 1319,
       "2026-05-19": 85,
-      "2026-05-23": 1050,
-      "2026-06-07": 6
+      "2026-05-23": 1050
     }
   },
   {
@@ -545,9 +544,9 @@
     "slug": "kanti-robotik-scouting",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "93.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "98.90%",
     "time": 909,
     "timeDay": 756,
@@ -574,8 +573,7 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045,
-      "2026-06-07": 2
+      "2026-05-23": 1045
     }
   },
   {
@@ -920,11 +918,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orsopal.ch.ico",
     "slug": "orsopal",
     "status": "up",
-    "uptime": "92.65%",
+    "uptime": "92.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "65.02%",
-    "uptimeYear": "92.65%",
+    "uptimeYear": "92.66%",
     "time": 1494,
     "timeDay": 1186,
     "timeWeek": 925,
