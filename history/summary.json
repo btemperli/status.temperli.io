@@ -227,7 +227,7 @@
     "uptime": "97.16%",
     "uptimeDay": "97.46%",
     "uptimeWeek": "99.28%",
-    "uptimeMonth": "74.38%",
+    "uptimeMonth": "74.39%",
     "uptimeYear": "96.60%",
     "time": 915,
     "timeDay": 480,
@@ -512,16 +512,16 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "down",
+    "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
     "uptimeMonth": "96.76%",
     "uptimeYear": "98.90%",
     "time": 671,
-    "timeDay": 447,
-    "timeWeek": 560,
-    "timeMonth": 641,
+    "timeDay": 627,
+    "timeWeek": 573,
+    "timeMonth": 642,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2025-06-14": 4,
@@ -544,7 +544,7 @@
       "2026-05-11": 1319,
       "2026-05-19": 85,
       "2026-05-23": 1050,
-      "2026-06-12": 6
+      "2026-06-12": 7
     }
   },
   {
@@ -552,16 +552,16 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "96.80%",
     "uptimeYear": "98.90%",
     "time": 909,
-    "timeDay": 692,
+    "timeDay": 757,
     "timeWeek": 817,
-    "timeMonth": 752,
+    "timeMonth": 753,
     "timeYear": 925,
     "dailyMinutesDown": {
       "2025-06-14": 4,
@@ -583,7 +583,7 @@
       "2026-05-11": 1314,
       "2026-05-19": 80,
       "2026-05-23": 1045,
-      "2026-06-12": 1
+      "2026-06-12": 2
     }
   },
   {
@@ -663,7 +663,7 @@
     "uptime": "96.41%",
     "uptimeDay": "98.46%",
     "uptimeWeek": "99.57%",
-    "uptimeMonth": "74.95%",
+    "uptimeMonth": "74.96%",
     "uptimeYear": "96.68%",
     "time": 729,
     "timeDay": 594,
