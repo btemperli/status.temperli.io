@@ -299,7 +299,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/temperli.io.ico",
     "slug": "temperli-led",
     "status": "up",
-    "uptime": "97.18%",
+    "uptime": "97.19%",
     "uptimeDay": "95.60%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "75.85%",
@@ -519,13 +519,13 @@
     "slug": "kanti-informatik-seite",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "97.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.41%",
     "uptimeYear": "98.90%",
     "time": 671,
     "timeDay": 641,
-    "timeWeek": 586,
+    "timeWeek": 593,
     "timeMonth": 646,
     "timeYear": 650,
     "dailyMinutesDown": {
@@ -548,8 +548,7 @@
       "2026-05-12": 321,
       "2026-05-11": 1319,
       "2026-05-19": 85,
-      "2026-05-23": 1050,
-      "2026-06-13": 7
+      "2026-05-23": 1050
     }
   },
   {
@@ -558,14 +557,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptime": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "98.90%",
     "time": 908,
     "timeDay": 701,
-    "timeWeek": 817,
+    "timeWeek": 830,
     "timeMonth": 753,
     "timeYear": 925,
     "dailyMinutesDown": {
@@ -587,8 +586,7 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045,
-      "2026-06-13": 2
+      "2026-05-23": 1045
     }
   },
   {
@@ -900,16 +898,16 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "97.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.43%",
-    "time": 1544,
-    "timeDay": 1241,
-    "timeWeek": 1369,
-    "timeMonth": 1242,
+    "time": 1543,
+    "timeDay": 1117,
+    "timeWeek": 1373,
+    "timeMonth": 1236,
     "timeYear": 1539,
     "dailyMinutesDown": {
       "2025-06-30": 5,
@@ -933,7 +931,8 @@
       "2026-03-31": 1440,
       "2026-03-30": 1209,
       "2026-05-09": 116,
-      "2026-05-08": 1380
+      "2026-05-08": 1380,
+      "2026-06-13": 1
     }
   },
   {
@@ -942,11 +941,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orsopal.ch.ico",
     "slug": "orsopal",
     "status": "up",
-    "uptime": "92.88%",
+    "uptime": "92.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "69.38%",
-    "uptimeYear": "92.88%",
+    "uptimeYear": "92.89%",
     "time": 1500,
     "timeDay": 2905,
     "timeWeek": 1687,
