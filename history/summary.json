@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/temperli.io.ico",
     "slug": "temperli",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.21%",
     "uptimeDay": "96.49%",
     "uptimeWeek": "97.48%",
     "uptimeMonth": "74.91%",
@@ -230,7 +230,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dreisatz.temper.li.ico",
     "slug": "dreisatz-tool",
     "status": "up",
-    "uptime": "97.15%",
+    "uptime": "97.16%",
     "uptimeDay": "97.50%",
     "uptimeWeek": "98.20%",
     "uptimeMonth": "75.54%",
@@ -422,7 +422,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-info",
     "status": "up",
-    "uptime": "96.05%",
+    "uptime": "96.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -500,11 +500,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-ip-adresse",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.64%",
+    "uptimeYear": "98.65%",
     "time": 634,
     "timeDay": 488,
     "timeWeek": 535,
@@ -530,7 +530,7 @@
     "uptimeYear": "98.90%",
     "time": 671,
     "timeDay": 605,
-    "timeWeek": 591,
+    "timeWeek": 598,
     "timeMonth": 643,
     "timeYear": 650,
     "dailyMinutesDown": {
@@ -569,7 +569,7 @@
     "uptimeYear": "98.90%",
     "time": 908,
     "timeDay": 806,
-    "timeWeek": 836,
+    "timeWeek": 841,
     "timeMonth": 753,
     "timeYear": 924,
     "dailyMinutesDown": {
@@ -670,7 +670,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanti-secure",
     "status": "up",
-    "uptime": "96.41%",
+    "uptime": "96.42%",
     "uptimeDay": "98.51%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "76.18%",
@@ -803,9 +803,9 @@
     "slug": "cevi-logo-generator-admin",
     "status": "up",
     "uptime": "96.54%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "81.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "81.25%",
     "uptimeYear": "96.54%",
     "time": 182,
     "timeDay": 496,
@@ -836,8 +836,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1221,
       "2026-05-23": 884,
-      "2026-05-30": 177,
-      "2026-06-13": 12
+      "2026-05-30": 177
     }
   },
   {
@@ -846,10 +845,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cevi-waedi.ch.ico",
     "slug": "cevi-abteilung-waedi",
     "status": "up",
-    "uptime": "97.72%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "79.90%",
+    "uptime": "97.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "79.91%",
     "uptimeYear": "97.27%",
     "time": 1819,
     "timeDay": 3701,
@@ -899,8 +898,7 @@
       "2026-05-25": 1021,
       "2026-05-24": 1440,
       "2026-05-23": 880,
-      "2026-05-30": 172,
-      "2026-06-13": 7
+      "2026-05-30": 172
     }
   },
   {
@@ -908,15 +906,15 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "97.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.43%",
     "time": 1542,
-    "timeDay": 1254,
-    "timeWeek": 1382,
+    "timeDay": 1357,
+    "timeWeek": 1375,
     "timeMonth": 1240,
     "timeYear": 1538,
     "dailyMinutesDown": {
@@ -941,7 +939,8 @@
       "2026-03-31": 1440,
       "2026-03-30": 1209,
       "2026-05-09": 116,
-      "2026-05-08": 1380
+      "2026-05-08": 1380,
+      "2026-06-13": 1
     }
   },
   {
@@ -950,11 +949,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orsopal.ch.ico",
     "slug": "orsopal",
     "status": "up",
-    "uptime": "92.90%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptime": "92.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "69.38%",
-    "uptimeYear": "92.90%",
+    "uptimeYear": "92.91%",
     "time": 1501,
     "timeDay": 1522,
     "timeWeek": 1678,
@@ -985,8 +984,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 875,
-      "2026-05-30": 167,
-      "2026-06-13": 2
+      "2026-05-30": 167
     }
   }
 ]
