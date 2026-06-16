@@ -84,7 +84,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/present.temperli.io.ico",
     "slug": "praesentationen",
     "status": "up",
-    "uptime": "97.06%",
+    "uptime": "97.07%",
     "uptimeDay": "90.35%",
     "uptimeWeek": "94.05%",
     "uptimeMonth": "82.22%",
@@ -535,11 +535,11 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.41%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "97.40%",
     "uptimeYear": "98.90%",
     "time": 670,
     "timeDay": 553,
@@ -564,7 +564,8 @@
       "2026-05-12": 321,
       "2026-05-11": 1319,
       "2026-05-19": 85,
-      "2026-05-23": 1050
+      "2026-05-23": 1050,
+      "2026-06-16": 2
     }
   },
   {
@@ -572,10 +573,10 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "98.90%",
     "time": 906,
@@ -600,7 +601,8 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045
+      "2026-05-23": 1045,
+      "2026-06-16": 1
     }
   },
   {
@@ -820,11 +822,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/logo.cevi.ch.ico",
     "slug": "cevi-logo-generator-admin",
     "status": "up",
-    "uptime": "96.57%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "89.09%",
-    "uptimeYear": "96.57%",
+    "uptime": "96.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "89.12%",
+    "uptimeYear": "96.58%",
     "time": 189,
     "timeDay": 576,
     "timeWeek": 615,
@@ -854,8 +856,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1221,
       "2026-05-23": 884,
-      "2026-05-30": 177,
-      "2026-06-16": 12
+      "2026-05-30": 177
     }
   },
   {
@@ -865,9 +866,9 @@
     "slug": "cevi-abteilung-waedi",
     "status": "up",
     "uptime": "97.74%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "83.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "83.32%",
     "uptimeYear": "97.27%",
     "time": 1833,
     "timeDay": 1762,
@@ -916,8 +917,7 @@
       "2026-05-25": 1021,
       "2026-05-24": 1440,
       "2026-05-23": 880,
-      "2026-05-30": 172,
-      "2026-06-16": 8
+      "2026-05-30": 172
     }
   },
   {
@@ -968,9 +968,9 @@
     "slug": "orsopal",
     "status": "up",
     "uptime": "93.02%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "77.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "77.23%",
     "uptimeYear": "93.02%",
     "time": 1499,
     "timeDay": 1674,
@@ -1002,8 +1002,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 875,
-      "2026-05-30": 167,
-      "2026-06-16": 3
+      "2026-05-30": 167
     }
   }
 ]
