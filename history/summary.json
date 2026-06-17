@@ -862,13 +862,13 @@
     "url": "https://cevi-waedi.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cevi-waedi.ch.ico",
     "slug": "cevi-abteilung-waedi",
-    "status": "up",
+    "status": "down",
     "uptime": "97.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "83.32%",
     "uptimeYear": "97.27%",
-    "time": 1833,
+    "time": 1834,
     "timeDay": 1746,
     "timeWeek": 2533,
     "timeMonth": 4370,
@@ -915,7 +915,8 @@
       "2026-05-25": 1021,
       "2026-05-24": 1440,
       "2026-05-23": 880,
-      "2026-05-30": 172
+      "2026-05-30": 172,
+      "2026-06-17": 1
     }
   },
   {
@@ -925,10 +926,10 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "97.86%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "97.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "97.43%",
     "time": 1523,
     "timeDay": 1002,
     "timeWeek": 1283,
@@ -956,8 +957,7 @@
       "2026-03-31": 1440,
       "2026-03-30": 1209,
       "2026-05-09": 116,
-      "2026-05-08": 1380,
-      "2026-06-17": 5
+      "2026-05-08": 1380
     }
   },
   {
