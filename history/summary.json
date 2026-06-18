@@ -244,7 +244,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dreisatz.temper.li.ico",
     "slug": "dreisatz-tool",
     "status": "up",
-    "uptime": "97.11%",
+    "uptime": "97.12%",
     "uptimeDay": "92.43%",
     "uptimeWeek": "94.58%",
     "uptimeMonth": "82.63%",
@@ -937,17 +937,17 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "97.86%",
-    "uptimeDay": "96.15%",
+    "uptimeDay": "96.18%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "97.42%",
     "time": 1522,
-    "timeDay": 1247,
-    "timeWeek": 1193,
-    "timeMonth": 1217,
-    "timeYear": 1517,
+    "timeDay": 1225,
+    "timeWeek": 1183,
+    "timeMonth": 1214,
+    "timeYear": 1516,
     "dailyMinutesDown": {
       "2025-06-30": 5,
       "2025-07-01": 5,
@@ -972,7 +972,7 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-18": 2
+      "2026-06-18": 1
     }
   },
   {
