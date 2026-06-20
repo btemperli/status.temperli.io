@@ -8,7 +8,7 @@
     "uptime": "97.12%",
     "uptimeDay": "89.41%",
     "uptimeWeek": "91.92%",
-    "uptimeMonth": "83.42%",
+    "uptimeMonth": "83.60%",
     "uptimeYear": "96.49%",
     "time": 1577,
     "timeDay": 1013,
@@ -91,7 +91,7 @@
     "uptime": "97.04%",
     "uptimeDay": "90.42%",
     "uptimeWeek": "92.68%",
-    "uptimeMonth": "83.77%",
+    "uptimeMonth": "83.94%",
     "uptimeYear": "96.39%",
     "time": 1163,
     "timeDay": 778,
@@ -171,7 +171,7 @@
     "uptime": "97.07%",
     "uptimeDay": "91.43%",
     "uptimeWeek": "93.45%",
-    "uptimeMonth": "84.11%",
+    "uptimeMonth": "84.29%",
     "uptimeYear": "96.42%",
     "time": 1222,
     "timeDay": 1066,
@@ -252,7 +252,7 @@
     "uptime": "97.11%",
     "uptimeDay": "92.44%",
     "uptimeWeek": "94.22%",
-    "uptimeMonth": "84.45%",
+    "uptimeMonth": "84.63%",
     "uptimeYear": "96.47%",
     "time": 908,
     "timeDay": 599,
@@ -331,7 +331,7 @@
     "uptime": "97.15%",
     "uptimeDay": "93.44%",
     "uptimeWeek": "94.99%",
-    "uptimeMonth": "84.82%",
+    "uptimeMonth": "85.00%",
     "uptimeYear": "96.52%",
     "time": 269,
     "timeDay": 720,
@@ -627,7 +627,7 @@
     "uptime": "96.47%",
     "uptimeDay": "94.45%",
     "uptimeWeek": "95.75%",
-    "uptimeMonth": "85.15%",
+    "uptimeMonth": "85.33%",
     "uptimeYear": "96.66%",
     "time": 982,
     "timeDay": 772,
@@ -704,7 +704,7 @@
     "uptime": "96.42%",
     "uptimeDay": "95.46%",
     "uptimeWeek": "96.52%",
-    "uptimeMonth": "85.48%",
+    "uptimeMonth": "85.66%",
     "uptimeYear": "96.60%",
     "time": 726,
     "timeDay": 602,
@@ -781,7 +781,7 @@
     "uptime": "97.59%",
     "uptimeDay": "96.47%",
     "uptimeWeek": "97.29%",
-    "uptimeMonth": "90.11%",
+    "uptimeMonth": "90.29%",
     "uptimeYear": "97.06%",
     "time": 766,
     "timeDay": 707,
@@ -848,9 +848,9 @@
     "slug": "cevi-logo-generator-admin",
     "status": "up",
     "uptime": "96.62%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "91.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "91.39%",
     "uptimeYear": "96.62%",
     "time": 196,
     "timeDay": 634,
@@ -881,8 +881,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1221,
       "2026-05-23": 884,
-      "2026-05-30": 177,
-      "2026-06-20": 12
+      "2026-05-30": 177
     }
   },
   {
@@ -892,9 +891,9 @@
     "slug": "cevi-abteilung-waedi",
     "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "85.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "85.79%",
     "uptimeYear": "97.27%",
     "time": 1823,
     "timeDay": 1562,
@@ -943,8 +942,7 @@
       "2026-05-25": 1021,
       "2026-05-24": 1440,
       "2026-05-23": 880,
-      "2026-05-30": 172,
-      "2026-06-20": 7
+      "2026-05-30": 172
     }
   },
   {
@@ -952,16 +950,16 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "97.86%",
-    "uptimeDay": "96.28%",
-    "uptimeWeek": "98.94%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "97.41%",
-    "time": 1516,
-    "timeDay": 1381,
-    "timeWeek": 1190,
-    "timeMonth": 1234,
+    "time": 1514,
+    "timeDay": 1384,
+    "timeWeek": 1185,
+    "timeMonth": 1232,
     "timeYear": 1509,
     "dailyMinutesDown": {
       "2025-06-30": 5,
@@ -987,7 +985,7 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54
+      "2026-06-20": 55
     }
   },
   {
@@ -997,9 +995,9 @@
     "slug": "orsopal",
     "status": "up",
     "uptime": "93.16%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "79.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "79.48%",
     "uptimeYear": "93.16%",
     "time": 1492,
     "timeDay": 985,
@@ -1031,8 +1029,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 875,
-      "2026-05-30": 167,
-      "2026-06-20": 2
+      "2026-05-30": 167
     }
   }
 ]
