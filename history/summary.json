@@ -569,7 +569,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
     "time": 671,
-    "timeDay": 609,
+    "timeDay": 611,
     "timeWeek": 589,
     "timeMonth": 604,
     "timeYear": 630,
@@ -601,7 +601,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
     "time": 916,
-    "timeDay": 641,
+    "timeDay": 672,
     "timeWeek": 701,
     "timeMonth": 809,
     "timeYear": 928,
@@ -959,14 +959,14 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "97.90%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "97.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "97.41%",
     "time": 1506,
     "timeDay": 1483,
     "timeWeek": 1214,
-    "timeMonth": 1237,
+    "timeMonth": 1236,
     "timeYear": 1496,
     "dailyMinutesDown": {
       "2025-06-30": 5,
@@ -992,8 +992,7 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54,
-      "2026-06-28": 5
+      "2026-06-20": 54
     }
   },
   {
