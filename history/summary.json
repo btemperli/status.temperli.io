@@ -13,7 +13,7 @@
     "time": 1586,
     "timeDay": 1670,
     "timeWeek": 1428,
-    "timeMonth": 1531,
+    "timeMonth": 1528,
     "timeYear": 1610,
     "dailyMinutesDown": {
       "2025-06-29": 5,
@@ -99,7 +99,7 @@
     "time": 1158,
     "timeDay": 900,
     "timeWeek": 805,
-    "timeMonth": 780,
+    "timeMonth": 779,
     "timeYear": 1176,
     "dailyMinutesDown": {
       "2025-06-29": 5,
@@ -181,7 +181,7 @@
     "time": 1218,
     "timeDay": 904,
     "timeWeek": 877,
-    "timeMonth": 925,
+    "timeMonth": 924,
     "timeYear": 1245,
     "dailyMinutesDown": {
       "2025-06-29": 5,
@@ -265,7 +265,7 @@
     "time": 904,
     "timeDay": 644,
     "timeWeek": 618,
-    "timeMonth": 599,
+    "timeMonth": 598,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2025-06-29": 5,
@@ -347,7 +347,7 @@
     "time": 275,
     "timeDay": 755,
     "timeWeek": 677,
-    "timeMonth": 689,
+    "timeMonth": 690,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-06-29": 5,
@@ -639,7 +639,7 @@
     "time": 980,
     "timeDay": 870,
     "timeWeek": 816,
-    "timeMonth": 816,
+    "timeMonth": 817,
     "timeYear": 988,
     "dailyMinutesDown": {
       "2025-06-29": 5,
@@ -719,7 +719,7 @@
     "time": 726,
     "timeDay": 692,
     "timeWeek": 697,
-    "timeMonth": 639,
+    "timeMonth": 634,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2025-06-29": 5,
@@ -914,7 +914,7 @@
     "time": 1835,
     "timeDay": 3267,
     "timeWeek": 2945,
-    "timeMonth": 2141,
+    "timeMonth": 2146,
     "timeYear": 1862,
     "dailyMinutesDown": {
       "2025-06-29": 5,
@@ -965,16 +965,16 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "down",
+    "status": "up",
     "uptime": "97.90%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "97.41%",
-    "time": 1505,
-    "timeDay": 1434,
-    "timeWeek": 1229,
-    "timeMonth": 1236,
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "97.40%",
+    "time": 1506,
+    "timeDay": 1464,
+    "timeWeek": 1238,
+    "timeMonth": 1237,
     "timeYear": 1496,
     "dailyMinutesDown": {
       "2025-06-30": 5,
@@ -1001,7 +1001,7 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-06-28": 1
+      "2026-06-28": 5
     }
   },
   {
