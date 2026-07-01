@@ -909,7 +909,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cevi-waedi.ch.ico",
     "slug": "cevi-abteilung-waedi",
     "status": "up",
-    "uptime": "97.81%",
+    "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -966,17 +966,17 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "97.91%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "97.41%",
     "time": 1501,
-    "timeDay": 1020,
-    "timeWeek": 1241,
-    "timeMonth": 1234,
-    "timeYear": 1494,
+    "timeDay": 939,
+    "timeWeek": 1219,
+    "timeMonth": 1232,
+    "timeYear": 1493,
     "dailyMinutesDown": {
       "2025-07-03": 5,
       "2025-07-04": 5,
@@ -1000,7 +1000,7 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-07-01": 5
+      "2026-07-01": 1
     }
   },
   {
