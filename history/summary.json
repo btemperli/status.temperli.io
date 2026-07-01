@@ -571,10 +571,10 @@
     "slug": "kanti-informatik-seite",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "98.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "98.91%",
     "time": 677,
     "timeDay": 2121,
     "timeWeek": 801,
@@ -592,8 +592,7 @@
       "2026-05-11": 1319,
       "2026-05-19": 85,
       "2026-05-23": 1050,
-      "2026-06-28": 17,
-      "2026-07-01": 5
+      "2026-06-28": 17
     }
   },
   {
@@ -603,9 +602,9 @@
     "slug": "kanti-robotik-scouting",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
     "time": 924,
     "timeDay": 2668,
@@ -622,8 +621,7 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045,
-      "2026-07-01": 5
+      "2026-05-23": 1045
     }
   },
   {
@@ -968,17 +966,17 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "97.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "97.41%",
     "time": 1502,
-    "timeDay": 1313,
-    "timeWeek": 1262,
-    "timeMonth": 1236,
-    "timeYear": 1495,
+    "timeDay": 1027,
+    "timeWeek": 1246,
+    "timeMonth": 1234,
+    "timeYear": 1494,
     "dailyMinutesDown": {
       "2025-07-03": 5,
       "2025-07-04": 5,
@@ -1001,7 +999,8 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54
+      "2026-06-20": 54,
+      "2026-07-01": 1
     }
   },
   {
@@ -1010,11 +1009,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orsopal.ch.ico",
     "slug": "orsopal",
     "status": "up",
-    "uptime": "93.50%",
+    "uptime": "93.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.50%",
+    "uptimeYear": "93.51%",
     "time": 1493,
     "timeDay": 1243,
     "timeWeek": 1604,
