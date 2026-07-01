@@ -422,9 +422,9 @@
     "slug": "chottenserver",
     "status": "up",
     "uptime": "95.66%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.45%",
     "time": 1124,
     "timeDay": 730,
@@ -461,8 +461,7 @@
       "2026-04-03": 35,
       "2026-04-12": 85,
       "2026-04-29": 215,
-      "2026-05-10": 165,
-      "2026-07-01": 9
+      "2026-05-10": 165
     }
   },
   {
@@ -472,9 +471,9 @@
     "slug": "chottenserver-info",
     "status": "up",
     "uptime": "96.21%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.13%",
     "time": 642,
     "timeDay": 905,
@@ -507,8 +506,7 @@
       "2026-04-03": 34,
       "2026-04-12": 84,
       "2026-04-29": 215,
-      "2026-05-10": 165,
-      "2026-07-01": 4
+      "2026-05-10": 165
     }
   },
   {
@@ -518,9 +516,9 @@
     "slug": "chottenserver-fotos",
     "status": "up",
     "uptime": "97.34%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 821,
     "timeDay": 677,
@@ -540,8 +538,7 @@
       "2026-04-02": 28,
       "2026-04-03": 29,
       "2026-04-12": 84,
-      "2026-05-11": 379,
-      "2026-07-01": 2
+      "2026-05-11": 379
     }
   },
   {
@@ -551,9 +548,9 @@
     "slug": "chottenserver-ip-adresse",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
     "time": 632,
     "timeDay": 691,
@@ -564,8 +561,7 @@
       "2026-04-13": 38,
       "2026-04-25": 783,
       "2026-04-29": 215,
-      "2026-05-10": 165,
-      "2026-07-01": 2
+      "2026-05-10": 165
     }
   },
   {
@@ -970,16 +966,16 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "97.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "97.41%",
-    "time": 1503,
-    "timeDay": 0,
-    "timeWeek": 1260,
-    "timeMonth": 1236,
+    "time": 1502,
+    "timeDay": 692,
+    "timeWeek": 1248,
+    "timeMonth": 1234,
     "timeYear": 1494,
     "dailyMinutesDown": {
       "2025-07-03": 5,
@@ -1003,7 +999,8 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54
+      "2026-06-20": 54,
+      "2026-07-01": 1
     }
   },
   {
