@@ -573,11 +573,11 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "98.90%",
     "time": 678,
     "timeDay": 636,
@@ -596,7 +596,8 @@
       "2026-05-19": 85,
       "2026-05-23": 1050,
       "2026-06-28": 17,
-      "2026-07-02": 17
+      "2026-07-02": 17,
+      "2026-07-03": 6
     }
   },
   {
@@ -604,10 +605,10 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 925,
@@ -624,7 +625,8 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045
+      "2026-05-23": 1045,
+      "2026-07-03": 1
     }
   },
   {
@@ -915,7 +917,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cevi-waedi.ch.ico",
     "slug": "cevi-abteilung-waedi",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -974,14 +976,14 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "97.92%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "97.41%",
     "time": 1496,
     "timeDay": 1229,
     "timeWeek": 1254,
-    "timeMonth": 1234,
+    "timeMonth": 1238,
     "timeYear": 1489,
     "dailyMinutesDown": {
       "2025-07-04": 5,
@@ -1004,8 +1006,7 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54,
-      "2026-07-03": 5
+      "2026-06-20": 54
     }
   },
   {
