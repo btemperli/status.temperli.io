@@ -13,7 +13,7 @@
     "time": 1585,
     "timeDay": 0,
     "timeWeek": 1425,
-    "timeMonth": 1481,
+    "timeMonth": 1473,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2025-07-05": 5,
@@ -99,7 +99,7 @@
     "time": 1157,
     "timeDay": 0,
     "timeWeek": 766,
-    "timeMonth": 746,
+    "timeMonth": 744,
     "timeYear": 1179,
     "dailyMinutesDown": {
       "2025-07-05": 5,
@@ -181,7 +181,7 @@
     "time": 1216,
     "timeDay": 0,
     "timeWeek": 966,
-    "timeMonth": 945,
+    "timeMonth": 946,
     "timeYear": 1236,
     "dailyMinutesDown": {
       "2025-07-05": 5,
@@ -264,7 +264,7 @@
     "time": 902,
     "timeDay": 0,
     "timeWeek": 673,
-    "timeMonth": 616,
+    "timeMonth": 613,
     "timeYear": 933,
     "dailyMinutesDown": {
       "2025-07-05": 5,
@@ -339,7 +339,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/temperli.io.ico",
     "slug": "temperli-led",
     "status": "up",
-    "uptime": "97.17%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.81%",
     "uptimeMonth": "97.48%",
@@ -428,7 +428,7 @@
     "time": 1122,
     "timeDay": 0,
     "timeWeek": 1336,
-    "timeMonth": 857,
+    "timeMonth": 855,
     "timeYear": 1119,
     "dailyMinutesDown": {
       "2025-07-15": 575,
@@ -554,7 +554,7 @@
     "time": 631,
     "timeDay": 0,
     "timeWeek": 637,
-    "timeMonth": 592,
+    "timeMonth": 591,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2026-04-13": 38,
@@ -570,14 +570,14 @@
     "slug": "kanti-informatik-seite",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "98.90%",
     "time": 678,
     "timeDay": 620,
     "timeWeek": 830,
-    "timeMonth": 641,
+    "timeMonth": 633,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2025-07-14": 5,
@@ -591,8 +591,7 @@
       "2026-05-19": 85,
       "2026-05-23": 1050,
       "2026-06-28": 17,
-      "2026-07-02": 17,
-      "2026-07-04": 7
+      "2026-07-02": 17
     }
   },
   {
@@ -602,14 +601,14 @@
     "slug": "kanti-robotik-scouting",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 925,
     "timeDay": 771,
     "timeWeek": 1021,
-    "timeMonth": 880,
+    "timeMonth": 884,
     "timeYear": 937,
     "dailyMinutesDown": {
       "2025-07-14": 5,
@@ -620,8 +619,7 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045,
-      "2026-07-04": 2
+      "2026-05-23": 1045
     }
   },
   {
@@ -638,7 +636,7 @@
     "time": 978,
     "timeDay": 0,
     "timeWeek": 769,
-    "timeMonth": 816,
+    "timeMonth": 815,
     "timeYear": 990,
     "dailyMinutesDown": {
       "2025-07-05": 5,
@@ -719,7 +717,7 @@
     "time": 725,
     "timeDay": 0,
     "timeWeek": 634,
-    "timeMonth": 641,
+    "timeMonth": 642,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2025-07-05": 5,
@@ -874,7 +872,7 @@
     "time": 209,
     "timeDay": 0,
     "timeWeek": 566,
-    "timeMonth": 621,
+    "timeMonth": 620,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -917,7 +915,7 @@
     "time": 1834,
     "timeDay": 0,
     "timeWeek": 2057,
-    "timeMonth": 2099,
+    "timeMonth": 2107,
     "timeYear": 1871,
     "dailyMinutesDown": {
       "2025-07-05": 5,
@@ -972,9 +970,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "97.41%",
     "time": 1493,
-    "timeDay": 1110,
-    "timeWeek": 1204,
-    "timeMonth": 1234,
+    "timeDay": 1088,
+    "timeWeek": 1208,
+    "timeMonth": 1231,
     "timeYear": 1486,
     "dailyMinutesDown": {
       "2025-07-08": 5,
@@ -1013,7 +1011,7 @@
     "time": 1490,
     "timeDay": 0,
     "timeWeek": 1732,
-    "timeMonth": 1427,
+    "timeMonth": 1426,
     "timeYear": 1490,
     "dailyMinutesDown": {
       "2026-03-02": 466,
