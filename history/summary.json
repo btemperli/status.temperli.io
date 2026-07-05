@@ -253,7 +253,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dreisatz.temper.li.ico",
     "slug": "dreisatz-tool",
     "status": "up",
-    "uptime": "97.13%",
+    "uptime": "97.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.19%",
     "uptimeMonth": "97.26%",
@@ -624,10 +624,10 @@
     "slug": "kanti-secure-forms-admin-login",
     "status": "up",
     "uptime": "96.44%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "92.65%",
-    "uptimeMonth": "96.60%",
-    "uptimeYear": "96.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.69%",
+    "uptimeMonth": "96.61%",
+    "uptimeYear": "96.49%",
     "time": 981,
     "timeDay": 2383,
     "timeWeek": 1035,
@@ -694,8 +694,7 @@
       "2026-06-30": 377,
       "2026-06-29": 280,
       "2026-07-01": 54,
-      "2026-07-02": 27,
-      "2026-07-05": 5
+      "2026-07-02": 27
     }
   },
   {
@@ -956,17 +955,17 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "97.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "97.41%",
     "time": 1484,
-    "timeDay": 1175,
-    "timeWeek": 1161,
-    "timeMonth": 1238,
-    "timeYear": 1482,
+    "timeDay": 1068,
+    "timeWeek": 1151,
+    "timeMonth": 1236,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2025-07-08": 5,
       "2025-07-11": 5,
@@ -987,7 +986,8 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54
+      "2026-06-20": 54,
+      "2026-07-05": 1
     }
   },
   {
