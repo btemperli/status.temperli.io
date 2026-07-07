@@ -172,7 +172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wtj.temperli.io.ico",
     "slug": "web-tiger-jython",
     "status": "up",
-    "uptime": "97.09%",
+    "uptime": "97.10%",
     "uptimeDay": "97.12%",
     "uptimeWeek": "97.95%",
     "uptimeMonth": "96.80%",
@@ -569,9 +569,9 @@
     "slug": "kanti-informatik-seite",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "98.90%",
     "time": 679,
     "timeDay": 590,
@@ -590,8 +590,7 @@
       "2026-05-19": 85,
       "2026-05-23": 1050,
       "2026-06-28": 17,
-      "2026-07-02": 17,
-      "2026-07-07": 5
+      "2026-07-02": 17
     }
   },
   {
@@ -601,8 +600,8 @@
     "slug": "kanti-robotik-scouting",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 926,
@@ -619,8 +618,7 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045,
-      "2026-07-07": 1
+      "2026-05-23": 1045
     }
   },
   {
@@ -631,7 +629,7 @@
     "status": "up",
     "uptime": "96.45%",
     "uptimeDay": "98.13%",
-    "uptimeWeek": "96.56%",
+    "uptimeWeek": "96.91%",
     "uptimeMonth": "96.55%",
     "uptimeYear": "96.48%",
     "time": 980,
@@ -971,7 +969,7 @@
     "time": 1487,
     "timeDay": 892,
     "timeWeek": 1112,
-    "timeMonth": 1235,
+    "timeMonth": 1236,
     "timeYear": 1476,
     "dailyMinutesDown": {
       "2025-07-08": 5,
