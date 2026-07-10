@@ -924,17 +924,17 @@
     "url": "https://cevi-waedi.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cevi-waedi.ch.ico",
     "slug": "cevi-abteilung-waedi",
-    "status": "down",
-    "uptime": "97.86%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "97.85%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "97.28%",
-    "time": 1833,
-    "timeDay": 1986,
-    "timeWeek": 1807,
-    "timeMonth": 2125,
-    "timeYear": 1881,
+    "time": 1834,
+    "timeDay": 1981,
+    "timeWeek": 1818,
+    "timeMonth": 2122,
+    "timeYear": 1882,
     "dailyMinutesDown": {
       "2025-07-16": 5,
       "2025-07-18": 10,
@@ -969,7 +969,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 880,
       "2026-05-30": 172,
-      "2026-07-10": 1
+      "2026-07-10": 15
     }
   },
   {
