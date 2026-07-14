@@ -438,17 +438,17 @@
     "url": "$CHOTTEN_SERVER_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
-    "status": "down",
-    "uptime": "95.79%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
+    "status": "up",
+    "uptime": "95.78%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "97.45%",
-    "time": 1113,
-    "timeDay": 719,
-    "timeWeek": 798,
-    "timeMonth": 868,
-    "timeYear": 1118,
+    "time": 1111,
+    "timeDay": 689,
+    "timeWeek": 781,
+    "timeMonth": 861,
+    "timeYear": 1117,
     "dailyMinutesDown": {
       "2025-07-15": 575,
       "2025-07-27": 30,
@@ -480,7 +480,7 @@
       "2026-04-12": 85,
       "2026-04-29": 215,
       "2026-05-10": 165,
-      "2026-07-14": 4
+      "2026-07-14": 5
     }
   },
   {
