@@ -824,14 +824,14 @@
     "url": "https://logo.cevi.ch/?notracking",
     "icon": "https://icons.duckduckgo.com/ip3/logo.cevi.ch.ico",
     "slug": "cevi-logo-generator",
-    "status": "down",
+    "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "96.99%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "96.98%",
     "time": 763,
-    "timeDay": 669,
+    "timeDay": 680,
     "timeWeek": 722,
     "timeMonth": 693,
     "timeYear": 746,
@@ -899,7 +899,7 @@
       "2026-07-14": 17,
       "2026-07-15": 17,
       "2026-07-16": 34,
-      "2026-07-17": 1
+      "2026-07-17": 5
     }
   },
   {
