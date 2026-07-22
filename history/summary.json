@@ -4,16 +4,16 @@
     "url": "https://temperli.io/web",
     "icon": "https://icons.duckduckgo.com/ip3/temperli.io.ico",
     "slug": "temperli",
-    "status": "down",
+    "status": "up",
     "uptime": "97.09%",
-    "uptimeDay": "85.95%",
-    "uptimeWeek": "94.44%",
+    "uptimeDay": "85.82%",
+    "uptimeWeek": "94.42%",
     "uptimeMonth": "96.62%",
     "uptimeYear": "96.20%",
     "time": 1573,
-    "timeDay": 1645,
-    "timeWeek": 1468,
-    "timeMonth": 1508,
+    "timeDay": 1661,
+    "timeWeek": 1483,
+    "timeMonth": 1512,
     "timeYear": 1589,
     "dailyMinutesDown": {
       "2025-11-07": 30,
@@ -89,7 +89,7 @@
       "2026-07-19": 96,
       "2026-07-20": 59,
       "2026-07-21": 153,
-      "2026-07-22": 49
+      "2026-07-22": 51
     }
   },
   {
@@ -97,16 +97,16 @@
     "url": "https://present.temperli.io",
     "icon": "https://icons.duckduckgo.com/ip3/present.temperli.io.ico",
     "slug": "praesentationen",
-    "status": "down",
+    "status": "up",
     "uptime": "97.00%",
-    "uptimeDay": "87.29%",
-    "uptimeWeek": "93.26%",
+    "uptimeDay": "87.16%",
+    "uptimeWeek": "93.24%",
     "uptimeMonth": "96.55%",
     "uptimeYear": "96.09%",
-    "time": 1165,
-    "timeDay": 922,
-    "timeWeek": 1007,
-    "timeMonth": 827,
+    "time": 1161,
+    "timeDay": 834,
+    "timeWeek": 976,
+    "timeMonth": 821,
     "timeYear": 1176,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -179,7 +179,7 @@
       "2026-07-19": 86,
       "2026-07-20": 226,
       "2026-07-21": 138,
-      "2026-07-22": 44
+      "2026-07-22": 46
     }
   },
   {
@@ -187,16 +187,16 @@
     "url": "https://wtj.temperli.io",
     "icon": "https://icons.duckduckgo.com/ip3/wtj.temperli.io.ico",
     "slug": "web-tiger-jython",
-    "status": "down",
+    "status": "up",
     "uptime": "97.05%",
-    "uptimeDay": "88.63%",
-    "uptimeWeek": "93.74%",
+    "uptimeDay": "88.50%",
+    "uptimeWeek": "93.72%",
     "uptimeMonth": "96.86%",
     "uptimeYear": "96.15%",
     "time": 1218,
-    "timeDay": 1055,
-    "timeWeek": 965,
-    "timeMonth": 947,
+    "timeDay": 1015,
+    "timeWeek": 959,
+    "timeMonth": 946,
     "timeYear": 1233,
     "dailyMinutesDown": {
       "2025-11-07": 19,
@@ -270,7 +270,7 @@
       "2026-07-19": 76,
       "2026-07-20": 226,
       "2026-07-21": 124,
-      "2026-07-22": 40
+      "2026-07-22": 41
     }
   },
   {
@@ -278,17 +278,17 @@
     "url": "http://dreisatz.temper.li",
     "icon": "https://icons.duckduckgo.com/ip3/dreisatz.temper.li.ico",
     "slug": "dreisatz-tool",
-    "status": "down",
+    "status": "up",
     "uptime": "97.11%",
-    "uptimeDay": "89.97%",
-    "uptimeWeek": "94.22%",
+    "uptimeDay": "89.84%",
+    "uptimeWeek": "94.20%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "96.23%",
-    "time": 902,
-    "timeDay": 618,
-    "timeWeek": 628,
-    "timeMonth": 633,
-    "timeYear": 924,
+    "time": 901,
+    "timeDay": 571,
+    "timeWeek": 613,
+    "timeMonth": 628,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2025-11-07": 19,
       "2025-11-12": 15,
@@ -361,7 +361,7 @@
       "2026-07-19": 66,
       "2026-07-20": 226,
       "2026-07-21": 110,
-      "2026-07-22": 35
+      "2026-07-22": 37
     }
   },
   {
@@ -369,17 +369,17 @@
     "url": "https://temperli.io/web/led",
     "icon": "https://icons.duckduckgo.com/ip3/temperli.io.ico",
     "slug": "temperli-led",
-    "status": "down",
+    "status": "up",
     "uptime": "97.17%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "91.19%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "96.30%",
     "time": 293,
-    "timeDay": 687,
-    "timeWeek": 672,
+    "timeDay": 679,
+    "timeWeek": 670,
     "timeMonth": 653,
-    "timeYear": 309,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2025-11-12": 15,
       "2026-01-19": 217,
@@ -451,7 +451,7 @@
       "2026-07-19": 56,
       "2026-07-20": 226,
       "2026-07-21": 96,
-      "2026-07-22": 30
+      "2026-07-22": 32
     }
   },
   {
@@ -665,16 +665,16 @@
     "url": "$KANTI_SECURE_FORMS_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanti-secure-forms-admin-login",
-    "status": "down",
+    "status": "up",
     "uptime": "96.46%",
-    "uptimeDay": "92.63%",
-    "uptimeWeek": "95.18%",
+    "uptimeDay": "92.53%",
+    "uptimeWeek": "95.16%",
     "uptimeMonth": "96.41%",
     "uptimeYear": "96.35%",
     "time": 979,
-    "timeDay": 861,
-    "timeWeek": 979,
-    "timeMonth": 927,
+    "timeDay": 894,
+    "timeWeek": 982,
+    "timeMonth": 929,
     "timeYear": 1002,
     "dailyMinutesDown": {
       "2025-11-07": 17,
@@ -747,7 +747,7 @@
       "2026-07-19": 46,
       "2026-07-20": 227,
       "2026-07-21": 81,
-      "2026-07-22": 26
+      "2026-07-22": 27
     }
   },
   {
@@ -755,17 +755,17 @@
     "url": "$KANTI_SECURE_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanti-secure",
-    "status": "down",
+    "status": "up",
     "uptime": "96.54%",
-    "uptimeDay": "93.96%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "98.10%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "95.64%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "96.44%",
     "time": 722,
-    "timeDay": 668,
-    "timeWeek": 658,
-    "timeMonth": 648,
-    "timeYear": 721,
+    "timeDay": 631,
+    "timeWeek": 648,
+    "timeMonth": 645,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2025-11-12": 15,
       "2026-01-19": 215,
@@ -837,7 +837,7 @@
       "2026-07-19": 37,
       "2026-07-20": 227,
       "2026-07-21": 66,
-      "2026-07-22": 21
+      "2026-07-22": 22
     }
   },
   {
@@ -845,17 +845,17 @@
     "url": "https://logo.cevi.ch/?notracking",
     "icon": "https://icons.duckduckgo.com/ip3/logo.cevi.ch.ico",
     "slug": "cevi-logo-generator",
-    "status": "down",
+    "status": "up",
     "uptime": "97.64%",
-    "uptimeDay": "95.30%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "96.92%",
     "time": 762,
-    "timeDay": 812,
-    "timeWeek": 697,
-    "timeMonth": 676,
-    "timeYear": 746,
+    "timeDay": 774,
+    "timeWeek": 693,
+    "timeMonth": 675,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2025-11-12": 15,
       "2026-01-05": 60,
@@ -924,7 +924,7 @@
       "2026-07-19": 27,
       "2026-07-20": 227,
       "2026-07-21": 51,
-      "2026-07-22": 16
+      "2026-07-22": 17
     }
   },
   {
@@ -932,17 +932,17 @@
     "url": "https://logo.cevi.ch/admin/login.php",
     "icon": "https://icons.duckduckgo.com/ip3/logo.cevi.ch.ico",
     "slug": "cevi-logo-generator-admin",
-    "status": "down",
+    "status": "up",
     "uptime": "96.89%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "96.89%",
-    "time": 228,
-    "timeDay": 679,
-    "timeWeek": 622,
-    "timeMonth": 632,
-    "timeYear": 228,
+    "time": 229,
+    "timeDay": 681,
+    "timeWeek": 626,
+    "timeMonth": 633,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2025-11-12": 15,
       "2026-01-05": 60,
@@ -970,7 +970,7 @@
       "2026-05-30": 177,
       "2026-07-20": 227,
       "2026-07-19": 5,
-      "2026-07-22": 11
+      "2026-07-22": 12
     }
   },
   {
@@ -978,17 +978,17 @@
     "url": "https://cevi-waedi.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cevi-waedi.ch.ico",
     "slug": "cevi-abteilung-waedi",
-    "status": "down",
+    "status": "up",
     "uptime": "97.91%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "97.28%",
-    "time": 1844,
-    "timeDay": 2636,
-    "timeWeek": 1984,
-    "timeMonth": 2109,
-    "timeYear": 1900,
+    "time": 1849,
+    "timeDay": 3612,
+    "timeWeek": 2309,
+    "timeMonth": 2202,
+    "timeYear": 1906,
     "dailyMinutesDown": {
       "2025-11-07": 15,
       "2025-11-12": 15,
@@ -1020,7 +1020,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 880,
       "2026-05-30": 172,
-      "2026-07-22": 6
+      "2026-07-22": 8
     }
   },
   {
@@ -1062,17 +1062,17 @@
     "url": "https://orsopal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/orsopal.ch.ico",
     "slug": "orsopal",
-    "status": "down",
+    "status": "up",
     "uptime": "94.02%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "97.78%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "97.77%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "94.02%",
-    "time": 1472,
-    "timeDay": 1103,
-    "timeWeek": 1073,
-    "timeMonth": 1337,
-    "timeYear": 1472,
+    "time": 1471,
+    "timeDay": 1082,
+    "timeWeek": 1069,
+    "timeMonth": 1331,
+    "timeYear": 1471,
     "dailyMinutesDown": {
       "2026-03-02": 466,
       "2026-03-01": 9,
@@ -1100,7 +1100,7 @@
       "2026-05-23": 875,
       "2026-05-30": 167,
       "2026-07-20": 222,
-      "2026-07-22": 2
+      "2026-07-22": 3
     }
   }
 ]
