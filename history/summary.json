@@ -559,7 +559,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-fotos",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -623,7 +623,7 @@
     "time": 680,
     "timeDay": 672,
     "timeWeek": 611,
-    "timeMonth": 692,
+    "timeMonth": 696,
     "timeYear": 639,
     "dailyMinutesDown": {
       "2026-04-25": 580,
@@ -652,7 +652,7 @@
     "time": 927,
     "timeDay": 889,
     "timeWeek": 769,
-    "timeMonth": 854,
+    "timeMonth": 860,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2026-04-25": 581,
@@ -1034,14 +1034,14 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "98.01%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
-    "time": 1470,
-    "timeDay": 1175,
+    "time": 1471,
+    "timeDay": 1251,
     "timeWeek": 1251,
     "timeMonth": 1232,
     "timeYear": 1461,
@@ -1061,7 +1061,7 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-07-25": 5
+      "2026-07-25": 1
     }
   },
   {
