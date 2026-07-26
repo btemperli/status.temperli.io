@@ -950,9 +950,9 @@
     "slug": "cevi-logo-generator-admin",
     "status": "up",
     "uptime": "96.93%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "96.93%",
     "time": 232,
     "timeDay": 675,
@@ -985,8 +985,7 @@
       "2026-05-23": 884,
       "2026-05-30": 177,
       "2026-07-20": 227,
-      "2026-07-19": 5,
-      "2026-07-26": 13
+      "2026-07-19": 5
     }
   },
   {
@@ -996,9 +995,9 @@
     "slug": "cevi-abteilung-waedi",
     "status": "up",
     "uptime": "97.93%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.28%",
     "time": 1852,
     "timeDay": 2221,
@@ -1035,8 +1034,7 @@
       "2026-05-25": 1021,
       "2026-05-24": 1440,
       "2026-05-23": 880,
-      "2026-05-30": 172,
-      "2026-07-26": 8
+      "2026-05-30": 172
     }
   },
   {
@@ -1044,15 +1042,15 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "98.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
     "time": 1469,
-    "timeDay": 1240,
-    "timeWeek": 1227,
+    "timeDay": 1220,
+    "timeWeek": 1223,
     "timeMonth": 1229,
     "timeYear": 1459,
     "dailyMinutesDown": {
@@ -1070,7 +1068,8 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54
+      "2026-06-20": 54,
+      "2026-07-26": 2
     }
   },
   {
@@ -1080,8 +1079,8 @@
     "slug": "orsopal",
     "status": "up",
     "uptime": "94.14%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "97.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.80%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "94.14%",
     "time": 1471,
@@ -1115,8 +1114,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 875,
       "2026-05-30": 167,
-      "2026-07-20": 222,
-      "2026-07-26": 3
+      "2026-07-20": 222
     }
   }
 ]
