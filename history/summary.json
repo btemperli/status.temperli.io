@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.09%",
     "uptimeDay": "93.60%",
-    "uptimeWeek": "95.02%",
+    "uptimeWeek": "95.07%",
     "uptimeMonth": "96.41%",
     "uptimeYear": "96.16%",
     "time": 1577,
@@ -479,7 +479,7 @@
     "timeDay": 674,
     "timeWeek": 776,
     "timeMonth": 914,
-    "timeYear": 1122,
+    "timeYear": 1123,
     "dailyMinutesDown": {
       "2025-07-27": 30,
       "2025-07-28": 35,
@@ -528,7 +528,7 @@
     "timeDay": 585,
     "timeWeek": 760,
     "timeMonth": 774,
-    "timeYear": 727,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2025-07-27": 29,
       "2025-07-28": 35,
@@ -573,7 +573,7 @@
     "timeDay": 371,
     "timeWeek": 525,
     "timeMonth": 561,
-    "timeYear": 885,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2025-07-27": 19,
       "2025-12-05": 117,
@@ -629,7 +629,7 @@
     "timeDay": 503,
     "timeWeek": 631,
     "timeMonth": 698,
-    "timeYear": 639,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2026-04-25": 580,
       "2026-04-24": 1440,
@@ -658,7 +658,7 @@
     "timeDay": 716,
     "timeWeek": 797,
     "timeMonth": 871,
-    "timeYear": 939,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2026-04-25": 581,
       "2026-04-24": 1440,
@@ -1042,17 +1042,17 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "98.02%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
     "time": 1468,
     "timeDay": 1361,
     "timeWeek": 1220,
-    "timeMonth": 1229,
-    "timeYear": 1458,
+    "timeMonth": 1230,
+    "timeYear": 1457,
     "dailyMinutesDown": {
       "2025-08-19": 73,
       "2026-03-03": 10,
@@ -1069,7 +1069,7 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-07-26": 5
+      "2026-07-26": 2
     }
   },
   {
