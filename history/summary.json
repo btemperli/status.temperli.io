@@ -689,7 +689,7 @@
     "uptime": "96.80%",
     "uptimeDay": "98.17%",
     "uptimeWeek": "98.23%",
-    "uptimeMonth": "96.52%",
+    "uptimeMonth": "96.53%",
     "uptimeYear": "96.31%",
     "time": 977,
     "timeDay": 985,
@@ -875,16 +875,16 @@
     "url": "https://logo.cevi.ch/?notracking",
     "icon": "https://icons.duckduckgo.com/ip3/logo.cevi.ch.ico",
     "slug": "cevi-logo-generator",
-    "status": "down",
+    "status": "up",
     "uptime": "97.66%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.30%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "96.90%",
     "time": 761,
-    "timeDay": 887,
-    "timeWeek": 794,
-    "timeMonth": 705,
+    "timeDay": 791,
+    "timeWeek": 781,
+    "timeMonth": 704,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2025-11-12": 15,
@@ -959,7 +959,7 @@
       "2026-07-26": 17,
       "2026-07-27": 34,
       "2026-07-28": 18,
-      "2026-07-29": 28
+      "2026-07-29": 32
     }
   },
   {
@@ -969,9 +969,9 @@
     "slug": "cevi-logo-generator-admin",
     "status": "up",
     "uptime": "96.96%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "96.96%",
     "time": 237,
     "timeDay": 600,
@@ -1004,8 +1004,7 @@
       "2026-05-23": 884,
       "2026-05-30": 177,
       "2026-07-20": 227,
-      "2026-07-19": 5,
-      "2026-07-29": 10
+      "2026-07-19": 5
     }
   },
   {
