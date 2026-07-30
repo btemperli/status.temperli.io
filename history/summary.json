@@ -102,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/present.temperli.io.ico",
     "slug": "praesentationen",
     "status": "up",
-    "uptime": "97.00%",
+    "uptime": "97.01%",
     "uptimeDay": "98.27%",
     "uptimeWeek": "96.64%",
     "uptimeMonth": "96.30%",
@@ -573,17 +573,17 @@
     "url": "$CHOTTEN_SERVER_SITE:2855",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-fotos",
-    "status": "up",
+    "status": "down",
     "uptime": "97.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.69%",
-    "time": 807,
-    "timeDay": 533,
-    "timeWeek": 484,
-    "timeMonth": 542,
-    "timeYear": 887,
+    "time": 806,
+    "timeDay": 426,
+    "timeWeek": 463,
+    "timeMonth": 534,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2025-12-05": 117,
       "2025-12-06": 138,
@@ -596,7 +596,8 @@
       "2026-04-03": 29,
       "2026-04-12": 84,
       "2026-05-11": 379,
-      "2026-07-17": 34
+      "2026-07-17": 34,
+      "2026-07-30": 1
     }
   },
   {
@@ -1062,9 +1063,9 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "98.04%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
     "time": 1465,
     "timeDay": 1141,
@@ -1086,8 +1087,7 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54,
-      "2026-07-30": 5
+      "2026-06-20": 54
     }
   },
   {
