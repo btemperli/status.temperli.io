@@ -304,7 +304,7 @@
     "timeDay": 628,
     "timeWeek": 786,
     "timeMonth": 658,
-    "timeYear": 922,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2025-11-12": 15,
       "2026-01-19": 218,
@@ -500,7 +500,7 @@
     "timeDay": 0,
     "timeWeek": 1280,
     "timeMonth": 894,
-    "timeYear": 1123,
+    "timeYear": 1124,
     "dailyMinutesDown": {
       "2025-08-03": 25,
       "2025-08-22": 20,
@@ -547,7 +547,7 @@
     "timeDay": 0,
     "timeWeek": 773,
     "timeMonth": 776,
-    "timeYear": 736,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2025-08-03": 25,
       "2025-08-22": 19,
@@ -590,7 +590,7 @@
     "timeDay": 0,
     "timeWeek": 509,
     "timeMonth": 539,
-    "timeYear": 887,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2025-12-05": 117,
       "2025-12-06": 138,
@@ -636,17 +636,17 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "down",
+    "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.91%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "98.90%",
     "time": 682,
-    "timeDay": 0,
-    "timeWeek": 691,
-    "timeMonth": 643,
-    "timeYear": 639,
+    "timeDay": 915,
+    "timeWeek": 719,
+    "timeMonth": 650,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2026-04-25": 580,
       "2026-04-24": 1440,
@@ -658,7 +658,7 @@
       "2026-05-23": 1050,
       "2026-06-28": 17,
       "2026-07-02": 17,
-      "2026-08-02": 6
+      "2026-08-02": 7
     }
   },
   {
@@ -666,17 +666,17 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
-    "time": 930,
-    "timeDay": 0,
-    "timeWeek": 977,
-    "timeMonth": 823,
-    "timeYear": 941,
+    "time": 922,
+    "timeDay": 954,
+    "timeWeek": 974,
+    "timeMonth": 826,
+    "timeYear": 942,
     "dailyMinutesDown": {
       "2026-04-25": 581,
       "2026-04-24": 1440,
@@ -686,7 +686,7 @@
       "2026-05-11": 1314,
       "2026-05-19": 80,
       "2026-05-23": 1045,
-      "2026-08-02": 1
+      "2026-08-02": 2
     }
   },
   {
@@ -802,7 +802,7 @@
     "timeDay": 960,
     "timeWeek": 684,
     "timeMonth": 659,
-    "timeYear": 723,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2025-11-12": 15,
       "2026-01-19": 215,
@@ -1040,7 +1040,7 @@
     "timeDay": 1542,
     "timeWeek": 4616,
     "timeMonth": 2578,
-    "timeYear": 1963,
+    "timeYear": 1964,
     "dailyMinutesDown": {
       "2025-11-07": 15,
       "2025-11-12": 15,
@@ -1087,7 +1087,7 @@
     "uptimeYear": "97.42%",
     "time": 1456,
     "timeDay": 1309,
-    "timeWeek": 1201,
+    "timeWeek": 1199,
     "timeMonth": 1219,
     "timeYear": 1449,
     "dailyMinutesDown": {
