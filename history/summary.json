@@ -985,9 +985,9 @@
     "slug": "cevi-logo-generator-admin",
     "status": "up",
     "uptime": "96.99%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "96.99%",
     "time": 241,
     "timeDay": 706,
@@ -1020,8 +1020,7 @@
       "2026-05-23": 884,
       "2026-05-30": 177,
       "2026-07-20": 227,
-      "2026-07-19": 5,
-      "2026-08-02": 12
+      "2026-07-19": 5
     }
   },
   {
@@ -1031,9 +1030,9 @@
     "slug": "cevi-abteilung-waedi",
     "status": "up",
     "uptime": "97.96%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.28%",
     "time": 1890,
     "timeDay": 3098,
@@ -1070,8 +1069,7 @@
       "2026-05-25": 1021,
       "2026-05-24": 1440,
       "2026-05-23": 880,
-      "2026-05-30": 172,
-      "2026-08-02": 7
+      "2026-05-30": 172
     }
   },
   {
@@ -1114,11 +1112,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orsopal.ch.ico",
     "slug": "orsopal",
     "status": "up",
-    "uptime": "94.29%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptime": "94.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "94.29%",
+    "uptimeYear": "94.30%",
     "time": 1468,
     "timeDay": 1459,
     "timeWeek": 1413,
@@ -1150,8 +1148,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 875,
       "2026-05-30": 167,
-      "2026-07-20": 222,
-      "2026-08-02": 3
+      "2026-07-20": 222
     }
   }
 ]
