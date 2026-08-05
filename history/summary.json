@@ -494,7 +494,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
     "status": "up",
-    "uptime": "95.96%",
+    "uptime": "95.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
@@ -637,13 +637,13 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.91%",
-    "time": 676,
+    "time": 667,
     "timeDay": 650,
     "timeWeek": 766,
     "timeMonth": 657,
@@ -658,7 +658,8 @@
       "2026-05-19": 85,
       "2026-05-23": 1050,
       "2026-06-28": 17,
-      "2026-07-02": 17
+      "2026-07-02": 17,
+      "2026-08-05": 6
     }
   },
   {
@@ -666,10 +667,10 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 922,
@@ -685,7 +686,8 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045
+      "2026-05-23": 1045,
+      "2026-08-05": 1
     }
   },
   {
@@ -1082,13 +1084,13 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "98.06%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
     "time": 1456,
-    "timeDay": 1190,
-    "timeWeek": 1237,
+    "timeDay": 1191,
+    "timeWeek": 1235,
     "timeMonth": 1238,
     "timeYear": 1446,
     "dailyMinutesDown": {
@@ -1106,8 +1108,7 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54,
-      "2026-08-05": 5
+      "2026-06-20": 54
     }
   },
   {
