@@ -646,7 +646,7 @@
     "time": 659,
     "timeDay": 623,
     "timeWeek": 733,
-    "timeMonth": 659,
+    "timeMonth": 660,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2026-04-25": 580,
@@ -1080,17 +1080,17 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "down",
+    "status": "up",
     "uptime": "98.06%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "97.42%",
     "time": 1454,
-    "timeDay": 1210,
-    "timeWeek": 1230,
-    "timeMonth": 1239,
-    "timeYear": 1445,
+    "timeDay": 1274,
+    "timeWeek": 1240,
+    "timeMonth": 1242,
+    "timeYear": 1446,
     "dailyMinutesDown": {
       "2025-08-19": 73,
       "2026-03-03": 10,
@@ -1107,7 +1107,7 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-08-06": 1
+      "2026-08-06": 5
     }
   },
   {
