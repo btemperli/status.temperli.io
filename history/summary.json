@@ -644,7 +644,7 @@
     "time": 659,
     "timeDay": 550,
     "timeWeek": 676,
-    "timeMonth": 654,
+    "timeMonth": 655,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2026-04-25": 580,
@@ -673,7 +673,7 @@
     "time": 913,
     "timeDay": 575,
     "timeWeek": 735,
-    "timeMonth": 808,
+    "timeMonth": 806,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2026-04-25": 581,
@@ -1034,9 +1034,9 @@
     "slug": "cevi-abteilung-waedi",
     "status": "up",
     "uptime": "97.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.28%",
     "time": 1907,
     "timeDay": 8471,
@@ -1073,8 +1073,7 @@
       "2026-05-25": 1021,
       "2026-05-24": 1440,
       "2026-05-23": 880,
-      "2026-05-30": 172,
-      "2026-08-08": 12
+      "2026-05-30": 172
     }
   },
   {
@@ -1082,17 +1081,17 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "98.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
     "time": 1449,
-    "timeDay": 1226,
-    "timeWeek": 1276,
-    "timeMonth": 1245,
-    "timeYear": 1444,
+    "timeDay": 1188,
+    "timeWeek": 1268,
+    "timeMonth": 1243,
+    "timeYear": 1443,
     "dailyMinutesDown": {
       "2025-08-19": 73,
       "2026-03-03": 10,
@@ -1108,7 +1107,8 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54
+      "2026-06-20": 54,
+      "2026-08-08": 1
     }
   },
   {
