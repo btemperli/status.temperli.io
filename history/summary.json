@@ -14,7 +14,7 @@
     "timeDay": 1640,
     "timeWeek": 1597,
     "timeMonth": 1648,
-    "timeYear": 1607,
+    "timeYear": 1608,
     "dailyMinutesDown": {
       "2026-04-23": 120,
       "2026-04-28": 315,
@@ -298,7 +298,7 @@
     "timeDay": 539,
     "timeWeek": 600,
     "timeMonth": 653,
-    "timeYear": 920,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2026-03-23": 28,
       "2026-03-27": 906,
@@ -627,13 +627,13 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.91%",
-    "time": 659,
+    "time": 651,
     "timeDay": 730,
     "timeWeek": 682,
     "timeMonth": 660,
@@ -648,7 +648,8 @@
       "2026-05-19": 85,
       "2026-05-23": 1050,
       "2026-06-28": 17,
-      "2026-07-02": 17
+      "2026-07-02": 17,
+      "2026-08-09": 6
     }
   },
   {
@@ -656,10 +657,10 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 913,
@@ -675,7 +676,8 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045
+      "2026-05-23": 1045,
+      "2026-08-09": 1
     }
   },
   {
@@ -693,7 +695,7 @@
     "timeDay": 959,
     "timeWeek": 880,
     "timeMonth": 891,
-    "timeYear": 1013,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2026-03-03": 247,
       "2026-03-23": 27,
@@ -790,7 +792,7 @@
     "timeDay": 566,
     "timeWeek": 588,
     "timeMonth": 648,
-    "timeYear": 724,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2026-03-02": 466,
       "2026-03-01": 11,
@@ -1032,7 +1034,7 @@
     "timeDay": 6760,
     "timeWeek": 3279,
     "timeMonth": 2857,
-    "timeYear": 2000,
+    "timeYear": 1999,
     "dailyMinutesDown": {
       "2025-11-07": 15,
       "2025-11-12": 15,
@@ -1073,9 +1075,9 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "98.08%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
     "time": 1447,
     "timeDay": 1161,
@@ -1097,8 +1099,7 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54,
-      "2026-08-09": 4
+      "2026-06-20": 54
     }
   },
   {
