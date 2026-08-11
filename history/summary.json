@@ -377,7 +377,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/temperli.io.ico",
     "slug": "temperli-led",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.35%",
     "uptimeDay": "97.79%",
     "uptimeWeek": "98.12%",
     "uptimeMonth": "97.14%",
@@ -474,7 +474,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
     "status": "up",
-    "uptime": "96.01%",
+    "uptime": "96.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
@@ -520,7 +520,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-info",
     "status": "up",
-    "uptime": "96.51%",
+    "uptime": "96.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
@@ -963,11 +963,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/logo.cevi.ch.ico",
     "slug": "cevi-logo-generator-admin",
     "status": "up",
-    "uptime": "97.06%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "97.06%",
+    "uptime": "97.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "97.07%",
     "time": 249,
     "timeDay": 645,
     "timeWeek": 656,
@@ -999,8 +999,7 @@
       "2026-05-23": 884,
       "2026-05-30": 177,
       "2026-07-20": 227,
-      "2026-07-19": 5,
-      "2026-08-11": 12
+      "2026-07-19": 5
     }
   },
   {
@@ -1009,10 +1008,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cevi-waedi.ch.ico",
     "slug": "cevi-abteilung-waedi",
     "status": "up",
-    "uptime": "97.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "98.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.28%",
     "time": 1908,
     "timeDay": 1576,
@@ -1049,8 +1048,7 @@
       "2026-05-25": 1021,
       "2026-05-24": 1440,
       "2026-05-23": 880,
-      "2026-05-30": 172,
-      "2026-08-11": 8
+      "2026-05-30": 172
     }
   },
   {
@@ -1058,17 +1056,17 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "98.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
-    "time": 1445,
-    "timeDay": 863,
-    "timeWeek": 1211,
-    "timeMonth": 1242,
-    "timeYear": 1440,
+    "time": 1444,
+    "timeDay": 967,
+    "timeWeek": 1209,
+    "timeMonth": 1237,
+    "timeYear": 1439,
     "dailyMinutesDown": {
       "2025-08-19": 73,
       "2026-03-03": 10,
@@ -1084,7 +1082,8 @@
       "2026-05-09": 116,
       "2026-05-08": 1380,
       "2026-06-17": 54,
-      "2026-06-20": 54
+      "2026-06-20": 54,
+      "2026-08-11": 1
     }
   },
   {
@@ -1093,11 +1092,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orsopal.ch.ico",
     "slug": "orsopal",
     "status": "up",
-    "uptime": "94.50%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
+    "uptime": "94.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "94.50%",
+    "uptimeYear": "94.51%",
     "time": 1463,
     "timeDay": 989,
     "timeWeek": 1317,
@@ -1129,8 +1128,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 875,
       "2026-05-30": 167,
-      "2026-07-20": 222,
-      "2026-08-11": 3
+      "2026-07-20": 222
     }
   }
 ]
