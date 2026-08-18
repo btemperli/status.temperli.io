@@ -17,6 +17,16 @@ sites:
     expectedStatusCodes:
       - 200
       - 415
+  - name: Temperli.Live
+    url: https://live.temperli.io
+    expectedStatusCodes:
+      - 200
+      - 415
+  - name: TypingNinja
+    url: https://typingninja.temperli.io
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: Dreisatz-Tool
     url: http://dreisatz.temper.li
     expectedStatusCodes:
