@@ -284,11 +284,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.temperli.io.ico",
     "slug": "temperli-live",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.37%",
     "uptimeDay": "96.76%",
     "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "98.34%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
     "time": 800,
     "timeDay": 993,
     "timeWeek": 798,
@@ -308,11 +308,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/typingninja.temperli.io.ico",
     "slug": "typing-ninja",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.54%",
     "uptimeDay": "97.10%",
     "uptimeWeek": "98.35%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "98.52%",
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "98.54%",
     "time": 648,
     "timeDay": 547,
     "timeWeek": 679,
@@ -659,12 +659,12 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "up",
-    "uptime": "98.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "82.95%",
-    "uptimeMonth": "90.64%",
-    "uptimeYear": "98.13%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "84.86%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "98.12%",
     "time": 674,
     "timeDay": 500,
     "timeWeek": 643,
@@ -684,7 +684,8 @@
       "2026-08-22": 337,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
-      "2026-08-19": 884
+      "2026-08-19": 884,
+      "2026-08-28": 6
     }
   },
   {
@@ -692,10 +693,10 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 914,
@@ -711,7 +712,8 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045
+      "2026-05-23": 1045,
+      "2026-08-28": 1
     }
   },
   {
@@ -1000,9 +1002,9 @@
     "slug": "cevi-logo-generator-admin",
     "status": "up",
     "uptime": "97.20%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.15%",
     "time": 259,
     "timeDay": 607,
@@ -1035,8 +1037,7 @@
       "2026-05-23": 884,
       "2026-05-30": 177,
       "2026-07-20": 227,
-      "2026-07-19": 5,
-      "2026-08-28": 13
+      "2026-07-19": 5
     }
   },
   {
@@ -1046,9 +1047,9 @@
     "slug": "cevi-abteilung-waedi",
     "status": "up",
     "uptime": "98.06%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.28%",
     "time": 1909,
     "timeDay": 1075,
@@ -1085,8 +1086,7 @@
       "2026-05-25": 1021,
       "2026-05-24": 1440,
       "2026-05-23": 880,
-      "2026-05-30": 172,
-      "2026-08-28": 8
+      "2026-05-30": 172
     }
   },
   {
@@ -1101,8 +1101,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.43%",
     "time": 1429,
-    "timeDay": 1234,
-    "timeWeek": 1116,
+    "timeDay": 1219,
+    "timeWeek": 1132,
     "timeMonth": 1187,
     "timeYear": 1418,
     "dailyMinutesDown": {
@@ -1129,9 +1129,9 @@
     "slug": "orsopal",
     "status": "up",
     "uptime": "94.85%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.85%",
     "time": 1450,
     "timeDay": 1060,
@@ -1164,8 +1164,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 875,
       "2026-05-30": 167,
-      "2026-07-20": 222,
-      "2026-08-28": 3
+      "2026-07-20": 222
     }
   }
 ]
