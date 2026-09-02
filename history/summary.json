@@ -273,11 +273,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.temperli.io.ico",
     "slug": "temperli-live",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "uptimeDay": "93.52%",
     "uptimeWeek": "95.85%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "97.42%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "97.43%",
     "time": 837,
     "timeDay": 1025,
     "timeWeek": 883,
@@ -301,11 +301,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/typingninja.temperli.io.ico",
     "slug": "typing-ninja",
     "status": "up",
-    "uptime": "97.69%",
+    "uptime": "97.70%",
     "uptimeDay": "94.19%",
     "uptimeWeek": "96.28%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "97.69%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
     "time": 647,
     "timeDay": 600,
     "timeWeek": 628,
@@ -513,11 +513,11 @@
     "url": "$CHOTTEN_SERVER_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
-    "status": "up",
+    "status": "down",
     "uptime": "96.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "97.57%",
     "time": 1038,
     "timeDay": 722,
@@ -549,7 +549,8 @@
       "2026-04-12": 85,
       "2026-04-29": 215,
       "2026-05-10": 165,
-      "2026-07-17": 46
+      "2026-07-17": 46,
+      "2026-09-02": 3
     }
   },
   {
@@ -557,13 +558,13 @@
     "url": "$CHOTTEN_SERVER_SITE/info.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-info",
-    "status": "up",
+    "status": "down",
     "uptime": "96.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.26%",
-    "time": 675,
+    "time": 676,
     "timeDay": 643,
     "timeWeek": 621,
     "timeMonth": 656,
@@ -589,7 +590,8 @@
       "2026-04-12": 84,
       "2026-04-29": 215,
       "2026-05-10": 165,
-      "2026-07-17": 39
+      "2026-07-17": 39,
+      "2026-09-02": 2
     }
   },
   {
@@ -597,10 +599,10 @@
     "url": "$CHOTTEN_SERVER_SITE:2855",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-fotos",
-    "status": "up",
+    "status": "down",
     "uptime": "97.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 795,
@@ -621,7 +623,8 @@
       "2026-04-12": 84,
       "2026-05-11": 379,
       "2026-07-17": 34,
-      "2026-07-30": 20
+      "2026-07-30": 20,
+      "2026-09-02": 1
     }
   },
   {
@@ -629,10 +632,10 @@
     "url": "$CHOTTEN_SERVER_SITE/checkip.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-ip-adresse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 618,
@@ -645,7 +648,8 @@
       "2026-04-25": 783,
       "2026-04-29": 215,
       "2026-05-10": 165,
-      "2026-07-17": 29
+      "2026-07-17": 29,
+      "2026-09-02": 1
     }
   },
   {
@@ -661,7 +665,7 @@
     "uptimeYear": "98.13%",
     "time": 674,
     "timeDay": 631,
-    "timeWeek": 614,
+    "timeWeek": 607,
     "timeMonth": 627,
     "timeYear": 640,
     "dailyMinutesDown": {
@@ -1089,14 +1093,14 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "98.16%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "97.42%",
     "time": 1426,
     "timeDay": 1418,
     "timeWeek": 1469,
-    "timeMonth": 1250,
+    "timeMonth": 1249,
     "timeYear": 1418,
     "dailyMinutesDown": {
       "2026-03-03": 10,
@@ -1113,8 +1117,7 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-08-29": 63,
-      "2026-09-02": 4
+      "2026-08-29": 63
     }
   },
   {
