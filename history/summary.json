@@ -6,7 +6,7 @@
     "slug": "temperli",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "91.52%",
+    "uptimeDay": "91.54%",
     "uptimeWeek": "94.55%",
     "uptimeMonth": "96.93%",
     "uptimeYear": "98.46%",
@@ -513,17 +513,17 @@
     "url": "$CHOTTEN_SERVER_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
-    "status": "down",
+    "status": "up",
     "uptime": "96.18%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "97.57%",
     "time": 1038,
-    "timeDay": 722,
-    "timeWeek": 751,
+    "timeDay": 721,
+    "timeWeek": 749,
     "timeMonth": 719,
-    "timeYear": 1105,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2025-09-06": 25,
       "2025-11-10": 353,
@@ -550,7 +550,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 46,
-      "2026-09-02": 3
+      "2026-09-02": 4
     }
   },
   {
@@ -558,17 +558,17 @@
     "url": "$CHOTTEN_SERVER_SITE/info.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-info",
-    "status": "down",
+    "status": "up",
     "uptime": "96.66%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.26%",
     "time": 676,
-    "timeDay": 643,
-    "timeWeek": 621,
+    "timeDay": 644,
+    "timeWeek": 622,
     "timeMonth": 656,
-    "timeYear": 758,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2025-09-06": 25,
       "2025-12-03": 15,
@@ -591,7 +591,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 39,
-      "2026-09-02": 2
+      "2026-09-02": 3
     }
   },
   {
@@ -599,17 +599,17 @@
     "url": "$CHOTTEN_SERVER_SITE:2855",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-fotos",
-    "status": "down",
+    "status": "up",
     "uptime": "97.65%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
-    "time": 795,
-    "timeDay": 578,
-    "timeWeek": 575,
-    "timeMonth": 553,
-    "timeYear": 902,
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.68%",
+    "time": 794,
+    "timeDay": 549,
+    "timeWeek": 567,
+    "timeMonth": 552,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2025-12-05": 117,
       "2025-12-06": 138,
@@ -624,7 +624,7 @@
       "2026-05-11": 379,
       "2026-07-17": 34,
       "2026-07-30": 20,
-      "2026-09-02": 1
+      "2026-09-02": 3
     }
   },
   {
@@ -632,15 +632,15 @@
     "url": "$CHOTTEN_SERVER_SITE/checkip.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-ip-adresse",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.40%",
     "time": 618,
-    "timeDay": 613,
-    "timeWeek": 571,
+    "timeDay": 614,
+    "timeWeek": 573,
     "timeMonth": 584,
     "timeYear": 618,
     "dailyMinutesDown": {
@@ -649,7 +649,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 29,
-      "2026-09-02": 1
+      "2026-09-02": 3
     }
   },
   {
