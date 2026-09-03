@@ -513,17 +513,17 @@
     "url": "$CHOTTEN_SERVER_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
-    "status": "down",
+    "status": "up",
     "uptime": "96.19%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "97.57%",
-    "time": 1036,
-    "timeDay": 557,
-    "timeWeek": 724,
-    "timeMonth": 710,
-    "timeYear": 1100,
+    "time": 1035,
+    "timeDay": 564,
+    "timeWeek": 718,
+    "timeMonth": 708,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2025-09-06": 25,
       "2025-11-10": 353,
@@ -550,7 +550,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 46,
-      "2026-09-03": 1
+      "2026-09-03": 3
     }
   },
   {
@@ -558,16 +558,16 @@
     "url": "$CHOTTEN_SERVER_SITE/info.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-info",
-    "status": "down",
+    "status": "up",
     "uptime": "96.67%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.26%",
     "time": 675,
-    "timeDay": 539,
-    "timeWeek": 602,
-    "timeMonth": 648,
+    "timeDay": 563,
+    "timeWeek": 605,
+    "timeMonth": 649,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2025-09-06": 25,
@@ -591,7 +591,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 39,
-      "2026-09-03": 1
+      "2026-09-03": 2
     }
   },
   {
@@ -631,16 +631,16 @@
     "url": "$CHOTTEN_SERVER_SITE/checkip.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-ip-adresse",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 616,
-    "timeDay": 537,
-    "timeWeek": 567,
-    "timeMonth": 582,
+    "timeDay": 550,
+    "timeWeek": 569,
+    "timeMonth": 583,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2026-04-13": 38,
@@ -648,7 +648,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 29,
-      "2026-09-03": 1
+      "2026-09-03": 2
     }
   },
   {
@@ -1092,9 +1092,9 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "98.16%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "97.42%",
     "time": 1424,
     "timeDay": 1256,
@@ -1116,8 +1116,7 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-08-29": 63,
-      "2026-09-03": 3
+      "2026-08-29": 63
     }
   },
   {
