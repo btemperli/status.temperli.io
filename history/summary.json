@@ -14,7 +14,7 @@
     "timeDay": 1744,
     "timeWeek": 1672,
     "timeMonth": 1560,
-    "timeYear": 1645,
+    "timeYear": 1646,
     "dailyMinutesDown": {
       "2026-05-29": 70,
       "2026-05-30": 196,
@@ -100,7 +100,7 @@
     "timeDay": 953,
     "timeWeek": 992,
     "timeMonth": 841,
-    "timeYear": 1114,
+    "timeYear": 1110,
     "dailyMinutesDown": {
       "2026-05-28": 45,
       "2026-05-29": 60,
@@ -186,7 +186,7 @@
     "timeDay": 1253,
     "timeWeek": 1056,
     "timeMonth": 1043,
-    "timeYear": 1219,
+    "timeYear": 1220,
     "dailyMinutesDown": {
       "2026-05-28": 40,
       "2026-05-29": 50,
@@ -263,11 +263,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.temperli.io.ico",
     "slug": "temperli-live",
     "status": "up",
-    "uptime": "97.38%",
+    "uptime": "97.40%",
     "uptimeDay": "93.53%",
     "uptimeWeek": "96.96%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "97.38%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "97.40%",
     "time": 874,
     "timeDay": 807,
     "timeWeek": 989,
@@ -294,11 +294,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/typingninja.temperli.io.ico",
     "slug": "typing-ninja",
     "status": "up",
-    "uptime": "97.66%",
+    "uptime": "97.68%",
     "uptimeDay": "94.20%",
     "uptimeWeek": "97.29%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
     "time": 741,
     "timeDay": 718,
     "timeWeek": 904,
@@ -334,7 +334,7 @@
     "timeDay": 581,
     "timeWeek": 713,
     "timeMonth": 655,
-    "timeYear": 927,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2026-05-28": 72,
       "2026-05-29": 41,
@@ -499,9 +499,9 @@
     "slug": "chottenserver",
     "status": "up",
     "uptime": "96.22%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "97.57%",
     "time": 1039,
     "timeDay": 671,
@@ -533,8 +533,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 46,
-      "2026-09-05": 33,
-      "2026-09-07": 5
+      "2026-09-05": 33
     }
   },
   {
@@ -544,9 +543,9 @@
     "slug": "chottenserver-info",
     "status": "up",
     "uptime": "96.69%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "98.25%",
     "time": 677,
     "timeDay": 672,
@@ -574,8 +573,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 39,
-      "2026-09-05": 32,
-      "2026-09-07": 5
+      "2026-09-05": 32
     }
   },
   {
@@ -616,11 +614,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-ip-adresse",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.41%",
     "time": 613,
     "timeDay": 597,
     "timeWeek": 592,
@@ -632,8 +630,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 29,
-      "2026-09-05": 32,
-      "2026-09-07": 4
+      "2026-09-05": 32
     }
   },
   {
@@ -711,7 +708,7 @@
     "timeDay": 842,
     "timeWeek": 862,
     "timeMonth": 924,
-    "timeYear": 1028,
+    "timeYear": 1023,
     "dailyMinutesDown": {
       "2026-05-27": 26,
       "2026-05-28": 52,
@@ -789,7 +786,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanti-secure",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "96.88%",
     "uptimeWeek": "98.66%",
     "uptimeMonth": "98.68%",
@@ -798,7 +795,7 @@
     "timeDay": 609,
     "timeWeek": 652,
     "timeMonth": 633,
-    "timeYear": 725,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2026-05-25": 441,
       "2026-05-24": 1440,
@@ -1021,7 +1018,7 @@
     "timeDay": 2931,
     "timeWeek": 2102,
     "timeMonth": 2374,
-    "timeYear": 2048,
+    "timeYear": 2050,
     "dailyMinutesDown": {
       "2025-11-07": 15,
       "2025-11-12": 15,
@@ -1060,17 +1057,17 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
-    "uptime": "98.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "status": "down",
+    "uptime": "98.18%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.42%",
     "time": 1436,
-    "timeDay": 1484,
-    "timeWeek": 1613,
-    "timeMonth": 1318,
-    "timeYear": 1422,
+    "timeDay": 1441,
+    "timeWeek": 1608,
+    "timeMonth": 1316,
+    "timeYear": 1423,
     "dailyMinutesDown": {
       "2026-03-03": 10,
       "2026-04-07": 606,
@@ -1086,7 +1083,8 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-08-29": 63
+      "2026-08-29": 63,
+      "2026-09-07": 2
     }
   },
   {
