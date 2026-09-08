@@ -1,7 +1,7 @@
 url: https://stalder-ag.ch
-status: up
-code: 200
-responseTime: 1237
-lastUpdated: 2026-09-08T00:58:45.638Z
+status: down
+code: 502
+responseTime: 598
+lastUpdated: 2026-09-08T09:12:05.793Z
 startTime: 2025-03-31T08:43:26.304Z
 generator: Upptime <https://github.com/upptime/upptime>
