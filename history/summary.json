@@ -8,7 +8,7 @@
     "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.17%",
-    "uptimeMonth": "96.63%",
+    "uptimeMonth": "96.64%",
     "uptimeYear": "98.98%",
     "time": 1594,
     "timeDay": 590,
@@ -497,17 +497,17 @@
     "url": "$CHOTTEN_SERVER_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
-    "status": "down",
+    "status": "up",
     "uptime": "96.23%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "97.57%",
-    "time": 1038,
-    "timeDay": 609,
-    "timeWeek": 835,
-    "timeMonth": 754,
-    "timeYear": 1095,
+    "time": 1039,
+    "timeDay": 691,
+    "timeWeek": 843,
+    "timeMonth": 758,
+    "timeYear": 1094,
     "dailyMinutesDown": {
       "2025-11-10": 353,
       "2025-11-09": 1440,
@@ -534,7 +534,7 @@
       "2026-05-10": 165,
       "2026-07-17": 46,
       "2026-09-05": 33,
-      "2026-09-09": 1
+      "2026-09-09": 5
     }
   },
   {
@@ -542,15 +542,15 @@
     "url": "$CHOTTEN_SERVER_SITE/info.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-info",
-    "status": "down",
+    "status": "up",
     "uptime": "96.70%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "98.25%",
-    "time": 678,
-    "timeDay": 555,
-    "timeWeek": 619,
+    "time": 679,
+    "timeDay": 575,
+    "timeWeek": 620,
     "timeMonth": 645,
     "timeYear": 757,
     "dailyMinutesDown": {
@@ -575,7 +575,7 @@
       "2026-05-10": 165,
       "2026-07-17": 39,
       "2026-09-05": 32,
-      "2026-09-09": 1
+      "2026-09-09": 5
     }
   },
   {
@@ -615,14 +615,14 @@
     "url": "$CHOTTEN_SERVER_SITE/checkip.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-ip-adresse",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.41%",
     "time": 613,
-    "timeDay": 527,
+    "timeDay": 536,
     "timeWeek": 578,
     "timeMonth": 584,
     "timeYear": 613,
@@ -633,7 +633,7 @@
       "2026-05-10": 165,
       "2026-07-17": 29,
       "2026-09-05": 32,
-      "2026-09-09": 1
+      "2026-09-09": 5
     }
   },
   {
