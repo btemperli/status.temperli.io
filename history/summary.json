@@ -499,9 +499,9 @@
     "slug": "chottenserver",
     "status": "up",
     "uptime": "96.24%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "97.57%",
     "time": 1038,
     "timeDay": 665,
@@ -533,8 +533,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 46,
-      "2026-09-05": 33,
-      "2026-09-10": 4
+      "2026-09-05": 33
     }
   },
   {
@@ -544,9 +543,9 @@
     "slug": "chottenserver-info",
     "status": "up",
     "uptime": "96.71%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "98.25%",
     "time": 679,
     "timeDay": 652,
@@ -574,8 +573,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 39,
-      "2026-09-05": 32,
-      "2026-09-10": 4
+      "2026-09-05": 32
     }
   },
   {
@@ -616,11 +614,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-ip-adresse",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.42%",
     "time": 612,
     "timeDay": 575,
     "timeWeek": 575,
@@ -632,8 +630,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 29,
-      "2026-09-05": 32,
-      "2026-09-10": 4
+      "2026-09-05": 32
     }
   },
   {
@@ -1060,17 +1057,17 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "98.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.42%",
-    "time": 1435,
-    "timeDay": 1662,
-    "timeWeek": 1667,
-    "timeMonth": 1347,
-    "timeYear": 1425,
+    "time": 1434,
+    "timeDay": 1463,
+    "timeWeek": 1645,
+    "timeMonth": 1343,
+    "timeYear": 1424,
     "dailyMinutesDown": {
       "2026-03-03": 10,
       "2026-04-07": 606,
@@ -1086,7 +1083,8 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-08-29": 63
+      "2026-08-29": 63,
+      "2026-09-10": 1
     }
   },
   {
