@@ -262,11 +262,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.temperli.io.ico",
     "slug": "temperli-live",
     "status": "up",
-    "uptime": "97.56%",
-    "uptimeDay": "96.40%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.56%",
+    "uptime": "97.57%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "97.57%",
+    "uptimeYear": "97.57%",
     "time": 880,
     "timeDay": 980,
     "timeWeek": 957,
@@ -285,7 +285,7 @@
       "2026-09-05": 47,
       "2026-09-06": 73,
       "2026-09-07": 93,
-      "2026-09-10": 52
+      "2026-09-10": 47
     }
   },
   {
@@ -294,11 +294,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/typingninja.temperli.io.ico",
     "slug": "typing-ninja",
     "status": "up",
-    "uptime": "97.82%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "97.82%",
+    "uptime": "97.83%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "97.83%",
     "time": 736,
     "timeDay": 728,
     "timeWeek": 869,
@@ -317,7 +317,7 @@
       "2026-09-05": 42,
       "2026-09-06": 63,
       "2026-09-07": 84,
-      "2026-09-10": 47
+      "2026-09-10": 42
     }
   },
   {
@@ -788,10 +788,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanti-secure",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "98.82%",
+    "uptime": "99.61%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.51%",
     "time": 714,
     "timeDay": 586,
@@ -799,6 +799,7 @@
     "timeMonth": 624,
     "timeYear": 726,
     "dailyMinutesDown": {
+      "2026-05-27": 21,
       "2026-05-28": 43,
       "2026-05-29": 21,
       "2026-05-30": 186,
@@ -866,7 +867,7 @@
       "2026-09-05": 23,
       "2026-09-06": 22,
       "2026-09-07": 45,
-      "2026-09-10": 27
+      "2026-09-10": 23
     }
   },
   {
@@ -1057,16 +1058,16 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.42%",
     "time": 1434,
-    "timeDay": 1476,
-    "timeWeek": 1647,
-    "timeMonth": 1342,
+    "timeDay": 1392,
+    "timeWeek": 1635,
+    "timeMonth": 1341,
     "timeYear": 1424,
     "dailyMinutesDown": {
       "2026-03-03": 10,
@@ -1083,7 +1084,8 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-08-29": 63
+      "2026-08-29": 63,
+      "2026-09-10": 1
     }
   },
   {
