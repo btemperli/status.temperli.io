@@ -962,9 +962,9 @@
     "slug": "cevi-logo-generator-admin",
     "status": "up",
     "uptime": "97.31%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.15%",
     "time": 273,
     "timeDay": 561,
@@ -997,8 +997,7 @@
       "2026-05-23": 884,
       "2026-05-30": 177,
       "2026-07-20": 227,
-      "2026-07-19": 5,
-      "2026-09-12": 13
+      "2026-07-19": 5
     }
   },
   {
@@ -1007,10 +1006,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cevi-waedi.ch.ico",
     "slug": "cevi-abteilung-waedi",
     "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptime": "98.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "97.28%",
     "time": 1946,
     "timeDay": 1271,
@@ -1048,8 +1047,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 880,
       "2026-05-30": 172,
-      "2026-09-10": 17,
-      "2026-09-12": 8
+      "2026-09-10": 17
     }
   },
   {
@@ -1057,16 +1055,16 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.42%",
     "time": 1432,
-    "timeDay": 864,
-    "timeWeek": 1698,
-    "timeMonth": 1333,
+    "timeDay": 713,
+    "timeWeek": 1674,
+    "timeMonth": 1329,
     "timeYear": 1423,
     "dailyMinutesDown": {
       "2026-03-03": 10,
@@ -1083,7 +1081,8 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-08-29": 63
+      "2026-08-29": 63,
+      "2026-09-12": 1
     }
   },
   {
@@ -1093,9 +1092,9 @@
     "slug": "orsopal",
     "status": "up",
     "uptime": "95.14%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "95.14%",
     "time": 1447,
     "timeDay": 1376,
@@ -1128,8 +1127,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 875,
       "2026-05-30": 167,
-      "2026-07-20": 222,
-      "2026-09-12": 3
+      "2026-07-20": 222
     }
   }
 ]
