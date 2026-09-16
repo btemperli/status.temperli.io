@@ -294,11 +294,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/typingninja.temperli.io.ico",
     "slug": "typing-ninja",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.34%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "97.93%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "97.94%",
     "time": 723,
     "timeDay": 467,
     "timeWeek": 681,
@@ -1059,9 +1059,9 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "98.20%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "97.42%",
     "time": 1436,
     "timeDay": 2966,
@@ -1083,8 +1083,7 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-08-29": 63,
-      "2026-09-16": 5
+      "2026-08-29": 63
     }
   },
   {
