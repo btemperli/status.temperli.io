@@ -646,16 +646,16 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "down",
+    "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "99.61%",
+    "uptimeDay": "99.55%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "93.42%",
     "uptimeYear": "98.12%",
-    "time": 675,
-    "timeDay": 668,
-    "timeWeek": 634,
-    "timeMonth": 626,
+    "time": 674,
+    "timeDay": 628,
+    "timeWeek": 628,
+    "timeMonth": 625,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2026-04-25": 580,
@@ -672,7 +672,7 @@
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 884,
-      "2026-09-20": 6
+      "2026-09-20": 7
     }
   },
   {
@@ -680,16 +680,16 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 911,
-    "timeDay": 782,
-    "timeWeek": 754,
-    "timeMonth": 734,
+    "timeDay": 747,
+    "timeWeek": 749,
+    "timeMonth": 733,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2026-04-25": 581,
@@ -700,7 +700,7 @@
       "2026-05-11": 1314,
       "2026-05-19": 80,
       "2026-05-23": 1045,
-      "2026-09-20": 1
+      "2026-09-20": 2
     }
   },
   {
@@ -1068,9 +1068,9 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "98.22%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "97.42%",
     "time": 1440,
     "timeDay": 1432,
@@ -1092,8 +1092,7 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-08-29": 63,
-      "2026-09-20": 15
+      "2026-08-29": 63
     }
   },
   {
