@@ -505,16 +505,16 @@
     "url": "$CHOTTEN_SERVER_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
-    "status": "down",
+    "status": "up",
     "uptime": "96.31%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "97.57%",
     "time": 1037,
-    "timeDay": 678,
-    "timeWeek": 692,
-    "timeMonth": 753,
+    "timeDay": 765,
+    "timeWeek": 712,
+    "timeMonth": 755,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2025-11-10": 353,
@@ -542,7 +542,7 @@
       "2026-05-10": 165,
       "2026-07-17": 46,
       "2026-09-05": 33,
-      "2026-09-20": 1
+      "2026-09-20": 5
     }
   },
   {
@@ -550,15 +550,15 @@
     "url": "$CHOTTEN_SERVER_SITE/info.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-info",
-    "status": "down",
+    "status": "up",
     "uptime": "96.77%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.25%",
-    "time": 687,
-    "timeDay": 562,
-    "timeWeek": 681,
+    "time": 688,
+    "timeDay": 603,
+    "timeWeek": 682,
     "timeMonth": 642,
     "timeYear": 762,
     "dailyMinutesDown": {
@@ -583,7 +583,7 @@
       "2026-05-10": 165,
       "2026-07-17": 39,
       "2026-09-05": 32,
-      "2026-09-20": 1
+      "2026-09-20": 5
     }
   },
   {
@@ -623,16 +623,16 @@
     "url": "$CHOTTEN_SERVER_SITE/checkip.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-ip-adresse",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.45%",
     "time": 611,
-    "timeDay": 499,
-    "timeWeek": 592,
-    "timeMonth": 587,
+    "timeDay": 541,
+    "timeWeek": 595,
+    "timeMonth": 588,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2026-04-13": 38,
@@ -641,7 +641,7 @@
       "2026-05-10": 165,
       "2026-07-17": 29,
       "2026-09-05": 32,
-      "2026-09-20": 1
+      "2026-09-20": 5
     }
   },
   {
@@ -653,7 +653,7 @@
     "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.13%",
+    "uptimeMonth": "94.14%",
     "uptimeYear": "98.13%",
     "time": 674,
     "timeDay": 628,
