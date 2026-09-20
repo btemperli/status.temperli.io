@@ -260,11 +260,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.temperli.io.ico",
     "slug": "temperli-live",
     "status": "up",
-    "uptime": "97.78%",
+    "uptime": "97.79%",
     "uptimeDay": "96.78%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "97.71%",
-    "uptimeYear": "97.78%",
+    "uptimeYear": "97.79%",
     "time": 924,
     "timeDay": 1105,
     "timeWeek": 1119,
@@ -646,12 +646,12 @@
     "url": "https://kanti-informatik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kanti-informatik.ch.ico",
     "slug": "kanti-informatik-seite",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "98.13%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "93.42%",
+    "uptimeYear": "98.12%",
     "time": 675,
     "timeDay": 668,
     "timeWeek": 634,
@@ -671,7 +671,8 @@
       "2026-08-22": 337,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
-      "2026-08-19": 884
+      "2026-08-19": 884,
+      "2026-09-20": 6
     }
   },
   {
@@ -679,13 +680,13 @@
     "url": "https://6417.kanti-informatik.ch/scouting",
     "icon": "https://icons.duckduckgo.com/ip3/6417.kanti-informatik.ch.ico",
     "slug": "kanti-robotik-scouting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
-    "time": 910,
+    "time": 911,
     "timeDay": 782,
     "timeWeek": 754,
     "timeMonth": 734,
@@ -698,7 +699,8 @@
       "2026-05-12": 316,
       "2026-05-11": 1314,
       "2026-05-19": 80,
-      "2026-05-23": 1045
+      "2026-05-23": 1045,
+      "2026-09-20": 1
     }
   },
   {
@@ -1064,16 +1066,16 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "down",
+    "status": "up",
     "uptime": "98.22%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "97.42%",
-    "time": 1439,
-    "timeDay": 1426,
-    "timeWeek": 1906,
-    "timeMonth": 1515,
+    "time": 1440,
+    "timeDay": 1432,
+    "timeWeek": 1894,
+    "timeMonth": 1514,
     "timeYear": 1432,
     "dailyMinutesDown": {
       "2026-03-03": 10,
@@ -1091,7 +1093,7 @@
       "2026-06-17": 54,
       "2026-06-20": 54,
       "2026-08-29": 63,
-      "2026-09-20": 1
+      "2026-09-20": 15
     }
   },
   {
