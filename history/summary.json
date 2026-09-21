@@ -507,9 +507,9 @@
     "slug": "chottenserver",
     "status": "up",
     "uptime": "96.31%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "97.57%",
     "time": 1035,
     "timeDay": 626,
@@ -541,8 +541,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 46,
-      "2026-09-05": 33,
-      "2026-09-21": 5
+      "2026-09-05": 33
     }
   },
   {
@@ -552,9 +551,9 @@
     "slug": "chottenserver-info",
     "status": "up",
     "uptime": "96.77%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "98.25%",
     "time": 689,
     "timeDay": 562,
@@ -582,8 +581,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 39,
-      "2026-09-05": 32,
-      "2026-09-21": 5
+      "2026-09-05": 32
     }
   },
   {
@@ -624,11 +622,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-ip-adresse",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.45%",
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.46%",
     "time": 610,
     "timeDay": 517,
     "timeWeek": 580,
@@ -640,8 +638,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 29,
-      "2026-09-05": 32,
-      "2026-09-21": 5
+      "2026-09-05": 32
     }
   },
   {
@@ -653,7 +650,7 @@
     "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.22%",
+    "uptimeMonth": "96.39%",
     "uptimeYear": "98.13%",
     "time": 674,
     "timeDay": 543,
@@ -1076,7 +1073,7 @@
     "time": 1439,
     "timeDay": 1078,
     "timeWeek": 1823,
-    "timeMonth": 1515,
+    "timeMonth": 1522,
     "timeYear": 1431,
     "dailyMinutesDown": {
       "2026-03-03": 10,
@@ -1102,11 +1099,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orsopal.ch.ico",
     "slug": "orsopal",
     "status": "up",
-    "uptime": "95.27%",
+    "uptime": "95.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.27%",
+    "uptimeYear": "95.28%",
     "time": 1452,
     "timeDay": 710,
     "timeWeek": 1757,
