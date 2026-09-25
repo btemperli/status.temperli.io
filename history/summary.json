@@ -521,17 +521,17 @@
     "url": "$CHOTTEN_SERVER_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
-    "status": "up",
+    "status": "down",
     "uptime": "96.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "97.57%",
     "time": 1035,
-    "timeDay": 588,
-    "timeWeek": 773,
-    "timeMonth": 761,
-    "timeYear": 1079,
+    "timeDay": 497,
+    "timeWeek": 747,
+    "timeMonth": 757,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2025-11-10": 353,
       "2025-11-09": 1440,
@@ -557,7 +557,8 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 46,
-      "2026-09-05": 33
+      "2026-09-05": 33,
+      "2026-09-25": 1
     }
   },
   {
@@ -565,17 +566,17 @@
     "url": "$CHOTTEN_SERVER_SITE/info.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-info",
-    "status": "up",
+    "status": "down",
     "uptime": "96.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "98.25%",
     "time": 691,
-    "timeDay": 628,
-    "timeWeek": 629,
-    "timeMonth": 635,
-    "timeYear": 763,
+    "timeDay": 517,
+    "timeWeek": 613,
+    "timeMonth": 632,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2025-12-03": 15,
       "2025-12-05": 164,
@@ -597,7 +598,8 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 39,
-      "2026-09-05": 32
+      "2026-09-05": 32,
+      "2026-09-25": 1
     }
   },
   {
@@ -637,24 +639,25 @@
     "url": "$CHOTTEN_SERVER_SITE/checkip.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-ip-adresse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.47%",
-    "time": 609,
-    "timeDay": 565,
-    "timeWeek": 563,
-    "timeMonth": 579,
-    "timeYear": 609,
+    "time": 608,
+    "timeDay": 488,
+    "timeWeek": 552,
+    "timeMonth": 577,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2026-04-13": 38,
       "2026-04-25": 783,
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 29,
-      "2026-09-05": 32
+      "2026-09-05": 32,
+      "2026-09-25": 1
     }
   },
   {
@@ -989,10 +992,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/logo.cevi.ch.ico",
     "slug": "cevi-logo-generator-admin",
     "status": "up",
-    "uptime": "97.39%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptime": "97.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.15%",
     "time": 281,
     "timeDay": 543,
@@ -1025,8 +1028,7 @@
       "2026-05-23": 884,
       "2026-05-30": 177,
       "2026-07-20": 227,
-      "2026-07-19": 5,
-      "2026-09-25": 12
+      "2026-07-19": 5
     }
   },
   {
@@ -1036,9 +1038,9 @@
     "slug": "cevi-abteilung-waedi",
     "status": "up",
     "uptime": "98.16%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "97.28%",
     "time": 1967,
     "timeDay": 1861,
@@ -1076,8 +1078,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 880,
       "2026-05-30": 172,
-      "2026-09-10": 17,
-      "2026-09-25": 8
+      "2026-09-10": 17
     }
   },
   {
@@ -1121,9 +1122,9 @@
     "slug": "orsopal",
     "status": "up",
     "uptime": "95.34%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "95.34%",
     "time": 1453,
     "timeDay": 1432,
@@ -1156,8 +1157,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 875,
       "2026-05-30": 167,
-      "2026-07-20": 222,
-      "2026-09-25": 3
+      "2026-07-20": 222
     }
   }
 ]
