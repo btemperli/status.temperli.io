@@ -266,11 +266,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.temperli.io.ico",
     "slug": "temperli-live",
     "status": "up",
-    "uptime": "97.76%",
+    "uptime": "97.77%",
     "uptimeDay": "96.80%",
     "uptimeWeek": "97.70%",
     "uptimeMonth": "97.50%",
-    "uptimeYear": "97.76%",
+    "uptimeYear": "97.77%",
     "time": 866,
     "timeDay": 1034,
     "timeWeek": 693,
@@ -1087,14 +1087,14 @@
     "slug": "stalder",
     "status": "up",
     "uptime": "98.24%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "97.42%",
     "time": 1438,
     "timeDay": 1422,
     "timeWeek": 1420,
-    "timeMonth": 1564,
+    "timeMonth": 1566,
     "timeYear": 1431,
     "dailyMinutesDown": {
       "2026-03-03": 10,
@@ -1111,8 +1111,7 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-08-29": 63,
-      "2026-09-27": 4
+      "2026-08-29": 63
     }
   },
   {
