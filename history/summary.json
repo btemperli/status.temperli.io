@@ -523,17 +523,17 @@
     "url": "$CHOTTEN_SERVER_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver",
-    "status": "down",
+    "status": "up",
     "uptime": "96.37%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "97.57%",
-    "time": 1030,
-    "timeDay": 616,
-    "timeWeek": 861,
+    "time": 1029,
+    "timeDay": 668,
+    "timeWeek": 856,
     "timeMonth": 772,
-    "timeYear": 1077,
+    "timeYear": 1076,
     "dailyMinutesDown": {
       "2025-11-10": 353,
       "2025-11-09": 1440,
@@ -560,7 +560,7 @@
       "2026-05-10": 165,
       "2026-07-17": 46,
       "2026-09-05": 33,
-      "2026-09-29": 1
+      "2026-09-29": 5
     }
   },
   {
@@ -568,16 +568,16 @@
     "url": "$CHOTTEN_SERVER_SITE/info.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-info",
-    "status": "down",
+    "status": "up",
     "uptime": "96.82%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.25%",
-    "time": 695,
-    "timeDay": 591,
-    "timeWeek": 629,
-    "timeMonth": 636,
+    "time": 696,
+    "timeDay": 675,
+    "timeWeek": 642,
+    "timeMonth": 639,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2025-12-03": 15,
@@ -601,7 +601,7 @@
       "2026-05-10": 165,
       "2026-07-17": 39,
       "2026-09-05": 32,
-      "2026-09-29": 1
+      "2026-09-29": 5
     }
   },
   {
@@ -641,17 +641,17 @@
     "url": "$CHOTTEN_SERVER_SITE/checkip.php",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chottenserver-ip-adresse",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.48%",
-    "time": 607,
-    "timeDay": 534,
-    "timeWeek": 571,
-    "timeMonth": 581,
-    "timeYear": 607,
+    "time": 608,
+    "timeDay": 590,
+    "timeWeek": 580,
+    "timeMonth": 583,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2026-04-13": 38,
       "2026-04-25": 783,
@@ -659,7 +659,7 @@
       "2026-05-10": 165,
       "2026-07-17": 29,
       "2026-09-05": 32,
-      "2026-09-29": 1
+      "2026-09-29": 5
     }
   },
   {
