@@ -266,11 +266,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.temperli.io.ico",
     "slug": "temperli-live",
     "status": "up",
-    "uptime": "97.87%",
+    "uptime": "97.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.16%",
     "uptimeMonth": "97.71%",
-    "uptimeYear": "97.87%",
+    "uptimeYear": "97.88%",
     "time": 870,
     "timeDay": 1039,
     "timeWeek": 743,
@@ -525,9 +525,9 @@
     "slug": "chottenserver",
     "status": "up",
     "uptime": "96.37%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "97.57%",
     "time": 1029,
     "timeDay": 668,
@@ -559,8 +559,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 46,
-      "2026-09-05": 33,
-      "2026-09-29": 5
+      "2026-09-05": 33
     }
   },
   {
@@ -570,9 +569,9 @@
     "slug": "chottenserver-info",
     "status": "up",
     "uptime": "96.82%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "98.25%",
     "time": 696,
     "timeDay": 675,
@@ -600,8 +599,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 39,
-      "2026-09-05": 32,
-      "2026-09-29": 5
+      "2026-09-05": 32
     }
   },
   {
@@ -643,9 +641,9 @@
     "slug": "chottenserver-ip-adresse",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.48%",
     "time": 608,
     "timeDay": 590,
@@ -658,8 +656,7 @@
       "2026-04-29": 215,
       "2026-05-10": 165,
       "2026-07-17": 29,
-      "2026-09-05": 32,
-      "2026-09-29": 5
+      "2026-09-05": 32
     }
   },
   {
@@ -1088,16 +1085,16 @@
     "url": "https://stalder-ag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stalder-ag.ch.ico",
     "slug": "stalder",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.42%",
-    "time": 1437,
-    "timeDay": 1256,
-    "timeWeek": 1357,
-    "timeMonth": 1543,
+    "time": 1436,
+    "timeDay": 1178,
+    "timeWeek": 1341,
+    "timeMonth": 1539,
     "timeYear": 1427,
     "dailyMinutesDown": {
       "2026-03-03": 10,
@@ -1114,7 +1111,8 @@
       "2026-05-08": 1380,
       "2026-06-17": 54,
       "2026-06-20": 54,
-      "2026-08-29": 63
+      "2026-08-29": 63,
+      "2026-09-29": 1
     }
   },
   {
